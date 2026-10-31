@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-31T21:45:09.269090+00:00",
+  "run_id": "fa4bbaec-c4b5-42be-a4bf-2db15428793d",
+  "mode": "live",
+  "model_requested": "claude-opus-5-5",
+  "response_models": [
+    "claude-opus-5-5"
+  ],
+  "questions": 5,
+  "paired_results": 10,
+  "live_responses": 5,
+  "full_toc_entries": 232,
+  "input_token_counts": [
+    17725,
+    17729,
+    17736,
+    17734,
+    17723
+  ],
+  "temperature": "provider default; field omitted",
+  "api_fix": "HTTP400: temperature is deprecated for this model. Field removed before successful rerun; prior failures preserved.",
+  "baseline_kind": "TF-IDF word vectors, not neural embeddings",
+  "matched_prepared_section": {
+    "baseline_tfidf": 4,
+    "toc_claude": 5
+  },
+  "denominator": 5,
+  "population": "First five frozen synthetic development questions; not a held-out benchmark or clinical validation.",
+  "source_snapshot_unchanged": true,
+  "row_counts": {
+    "snapshots": 1,
+    "sections": 232,
+    "toc_entries": 232,
+    "retrieval_indexes": 1,
+    "synthetic_runs": 5,
+    "retrieval_results": 58
+  },
+  "tests": {
+    "tests": 179,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "test_command": ".venv/bin/python -m pytest -q --junitxml=reports/live-comparison-tests.xml",
+  "http_routes_verified": {
+    "/": 200,
+    "/api/comparison": 200,
+    "/health": 200,
+    "POST /answer": 404
+  },
+  "all_display_rows_labelled_live": true,
+  "no_scripted_fallback": true,
+  "sqlite_integrity": "ok",
+  "sqlite_reference_check": "ok",
+  "comparison_html": "reports/comparison.html",
+  "comparison_json": "reports/comparison-data.json",
+  "browser_visual_check": "Unavailable: headless Chromium stalled and a bounded retry timed out. HTML labels, local HTTP routes, and TestClient behavior verified.",
+  "answer_generator_built": false
+}

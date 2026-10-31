@@ -1,0 +1,158 @@
+{
+  "run_id": "fa4bbaec-c4b5-42be-a4bf-2db15428793d",
+  "mode": "live",
+  "status": "complete",
+  "created_at": "2026-10-31T21:40:24.209879+00:00",
+  "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "model": "claude-opus-5-5",
+  "source_title": "Anatomy and Physiology 2e (open textbook)",
+  "publisher": "OpenStax, Rice University",
+  "source_url": "https://github.com/openstax/osbooks-anatomy-physiology/tree/5ae32b3f4bc24ed003e91dc38bf47dba80751044",
+  "publication_date": "unknown – publisher content",
+  "question_count": 5,
+  "live_responses": 5,
+  "status_counts": {
+    "baseline": {
+      "selected": 5,
+      "no_match": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "error": 0
+    },
+    "toc": {
+      "selected": 5,
+      "no_match": 0,
+      "invalid": 0,
+      "blocked": 0,
+      "error": 0
+    }
+  },
+  "rows": [
+    {
+      "question_id": "synthetic-01",
+      "question": "How does a feedback loop bring a body condition back toward its usual range after a change?",
+      "mode": "live",
+      "baseline": {
+        "section_id": "m45989",
+        "section_title": "Homeostasis",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml",
+        "mode": "live",
+        "live_response": false,
+        "response_model": null
+      },
+      "toc": {
+        "section_id": "m45989",
+        "section_title": "Homeostasis",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml",
+        "mode": "live",
+        "live_response": true,
+        "response_model": "claude-opus-5-5"
+      }
+    },
+    {
+      "question_id": "synthetic-02",
+      "question": "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?",
+      "mode": "live",
+      "baseline": {
+        "section_id": "m46509",
+        "section_title": "Nervous Tissue",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml",
+        "mode": "live",
+        "live_response": false,
+        "response_model": null
+      },
+      "toc": {
+        "section_id": "m46509",
+        "section_title": "Nervous Tissue",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml",
+        "mode": "live",
+        "live_response": true,
+        "response_model": "claude-opus-5-5"
+      }
+    },
+    {
+      "question_id": "synthetic-03",
+      "question": "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?",
+      "mode": "live",
+      "baseline": {
+        "section_id": "m46411",
+        "section_title": "Body Fluids and Fluid Compartments",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46411/index.cnxml",
+        "mode": "live",
+        "live_response": false,
+        "response_model": null
+      },
+      "toc": {
+        "section_id": "m46521",
+        "section_title": "Gas Exchange",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46521/index.cnxml",
+        "mode": "live",
+        "live_response": true,
+        "response_model": "claude-opus-5-5"
+      }
+    },
+    {
+      "question_id": "synthetic-04",
+      "question": "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?",
+      "mode": "live",
+      "baseline": {
+        "section_id": "m46431",
+        "section_title": "Microscopic Anatomy of the Kidney",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml",
+        "mode": "live",
+        "live_response": false,
+        "response_model": null
+      },
+      "toc": {
+        "section_id": "m46431",
+        "section_title": "Microscopic Anatomy of the Kidney",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml",
+        "mode": "live",
+        "live_response": true,
+        "response_model": "claude-opus-5-5"
+      }
+    },
+    {
+      "question_id": "synthetic-05",
+      "question": "Which folds and small surface projections help the small intestine take in nutrients?",
+      "mode": "live",
+      "baseline": {
+        "section_id": "m46512",
+        "section_title": "The Small and Large Intestines",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml",
+        "mode": "live",
+        "live_response": false,
+        "response_model": null
+      },
+      "toc": {
+        "section_id": "m46512",
+        "section_title": "The Small and Large Intestines",
+        "status": "selected",
+        "reason": null,
+        "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml",
+        "mode": "live",
+        "live_response": true,
+        "response_model": "claude-opus-5-5"
+      }
+    }
+  ],
+  "answer_generation": false
+}

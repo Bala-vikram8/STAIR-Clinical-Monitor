@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-30T12:21:40.549166+00:00",
+  "publisher": "OpenStax, Rice University",
+  "title": "Anatomy and Physiology 2e",
+  "source_type": "open anatomy/physiology textbook; not a treatment guideline",
+  "repository": "https://github.com/openstax/osbooks-anatomy-physiology",
+  "revision": "5ae32b3f4bc24ed003e91dc38bf47dba80751044",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "license_evidence": "Collection md:license + repository LICENSE + README",
+  "publication_date": null,
+  "publication_date_evidence": "No publication date in fetched collection metadata, README, or sampled module metadata. Do not infer from source revision.",
+  "edition": "2e",
+  "toc_present": true,
+  "toc_evidence": "Publisher collection XML col:subcollection and col:module structure",
+  "part_count": 6,
+  "group_count": 34,
+  "module_reference_count": 198,
+  "sampled_modules": {
+    "m46844": "Preface",
+    "m45981": "Introduction",
+    "m45983": "Overview of Anatomy and Physiology"
+  },
+  "all_module_bodies_downloaded": false,
+  "hierarchy_file": "reports/openstax-anatomy-hierarchy.json",
+  "downloads": [
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/README.md",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:39.310463+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-anatomy-readme.md",
+      "bytes": 805,
+      "sha256": "45a44fc6740ecaba39d723a4b409f46bf5d8838d436afa3d7eefbf48fe984fa2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:39.506062+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-anatomy.collection.xml",
+      "bytes": 14846,
+      "sha256": "96219d5c80b93b25692ca20fffccb7d2bd8652cca397fc15d31b3e42b36d3a9b"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/LICENSE",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:39.840645+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-anatomy.LICENSE",
+      "bytes": 21442,
+      "sha256": "ab1a44bbba58252630134574d7b2534813339240eb645825ffcc2487dbe8114a"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46844/index.cnxml",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:40.069836+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-m46844.cnxml",
+      "bytes": 26544,
+      "sha256": "d31c7df70cba08130e12d850e41464b0d654e87c601351347daf32eba17186dc"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45981/index.cnxml",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:40.288152+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-m45981.cnxml",
+      "bytes": 3177,
+      "sha256": "4cbf447e495eb0b5880d6fa6d03d67a98acda67161b339c1699e2d7161ba8ee0"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45983/index.cnxml",
+      "status": 200,
+      "checked_at": "2026-10-30T12:21:40.545721+00:00",
+      "path": "data/source-checks/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/openstax-m45983.cnxml",
+      "bytes": 13202,
+      "sha256": "ee32451449f260b3a851f4c66825a34eec2b679b275b3be355da6d9d89e2e3b5"
+    }
+  ],
+  "optional_archive_attempt": "Stopped at curl max-time 45: curl (28) Operation timed out after 45000 milliseconds with 368574464 bytes received. Partial archive deleted and not used. Small source files successfully fetched separately.",
+  "hierarchy_attribution": "Extracted from OpenStax/Rice University publisher collection XML. CC BY-NC-SA 4.0. Group labels and module IDs preserved; unknown module titles left null."
+}

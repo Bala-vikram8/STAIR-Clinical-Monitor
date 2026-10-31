@@ -1,0 +1,101 @@
+{
+  "version": "development-v1",
+  "purpose": "development smoke tests, not a held-out benchmark",
+  "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "prepared_on": "2026-10-31",
+  "source_attribution": "Supporting excerpts are from OpenStax / Rice University, Anatomy and Physiology 2e, under CC BY-NC-SA 4.0. The quoted source text is unchanged. Original source links are saved with each supported question.",
+  "notice": "All questions were written for this test. No patient data. Expected sections and support passages are review data and must not be supplied to either retrieval method. This small set does not establish clinical safety.",
+  "questions": [
+    {
+      "id": "synthetic-01",
+      "text": "How does a feedback loop bring a body condition back toward its usual range after a change?",
+      "origin": "synthetic",
+      "expected_section_id": "m45989",
+      "expected_section_title": "Homeostasis",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "Negative feedback is a mechanism that reverses a deviation from the set point. Therefore, negative feedback maintains body parameters within their normal range.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml"
+    },
+    {
+      "id": "synthetic-02",
+      "text": "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?",
+      "origin": "synthetic",
+      "expected_section_id": "m46509",
+      "expected_section_title": "Nervous Tissue",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "Many axons are wrapped by an insulating substance called myelin, which is actually made from glial cells. Myelin acts as insulation much like the plastic or rubber that is used to insulate electrical wires. A key difference between myelin and the insulation on a wire is that there are gaps in the myelin covering of an axon. Each gap is called a node of Ranvier and is important to the way that electrical signals travel down the axon.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml"
+    },
+    {
+      "id": "synthetic-03",
+      "text": "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?",
+      "origin": "synthetic",
+      "expected_section_id": "m46521",
+      "expected_section_title": "Gas Exchange",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "The actual exchange of gases occurs due to simple diffusion. Energy is not required to move oxygen or carbon dioxide across membranes.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46521/index.cnxml"
+    },
+    {
+      "id": "synthetic-04",
+      "text": "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?",
+      "origin": "synthetic",
+      "expected_section_id": "m46431",
+      "expected_section_title": "Microscopic Anatomy of the Kidney",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "Overall, filtration is regulated by fenestrations in capillary endothelial cells, podocytes with filtration slits, membrane charge, and the basement membrane between capillary cells.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml"
+    },
+    {
+      "id": "synthetic-05",
+      "text": "Which folds and small surface projections help the small intestine take in nutrients?",
+      "origin": "synthetic",
+      "expected_section_id": "m46512",
+      "expected_section_title": "The Small and Large Intestines",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "These features, which increase the absorptive surface area of the small intestine more than 600-fold, include circular folds, villi, and microvilli",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml"
+    },
+    {
+      "id": "synthetic-06",
+      "text": "What keeps blood moving in one direction between the heart chambers and stops it from going backward when the ventricles squeeze?",
+      "origin": "synthetic",
+      "expected_section_id": "m46676",
+      "expected_section_title": "Heart Anatomy",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "This prevents the flaps of the valves from being forced into the atria and regurgitation of the blood back into the atria during ventricular contraction.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46676/index.cnxml"
+    },
+    {
+      "id": "synthetic-07",
+      "text": "How do A and B surface markers distinguish the common red blood cell groups?",
+      "origin": "synthetic",
+      "expected_section_id": "m46708",
+      "expected_section_title": "Blood Typing",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "ABO blood group antigens are designated A and B. People with type A blood have A antigens on their erythrocytes, whereas those with type B blood have B antigens. Those with AB blood have both A and B antigens, and those with type O blood have neither A nor B antigens.",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46708/index.cnxml"
+    },
+    {
+      "id": "synthetic-08",
+      "text": "Which hormones are stored and released by the back lobe of the pituitary, and where are they made?",
+      "origin": "synthetic",
+      "expected_section_id": "m46699",
+      "expected_section_title": "The Pituitary Gland and Hypothalamus",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": "The posterior lobe houses the axon terminals of hypothalamic neurons. It stores and releases into the bloodstream two hypothalamic hormones: oxytocin and antidiuretic hormone (ADH).",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46699/index.cnxml"
+    },
+    {
+      "id": "synthetic-09",
+      "text": "What is the current recommended antibiotic dose for bacterial pneumonia?",
+      "origin": "synthetic",
+      "expected_section_id": null,
+      "expected_section_title": null,
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "supporting_quote": null,
+      "source_url": null,
+      "note": "Out of scope: this anatomy textbook is not a current treatment guideline. No drug or dose answer is supplied or assumed."
+    }
+  ]
+}

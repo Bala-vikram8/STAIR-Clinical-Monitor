@@ -1,0 +1,431 @@
+{
+  "run_id": "485eeb24-ff4d-404b-9206-fe7bd61bdd27",
+  "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "created_at": "2026-10-31T21:39:03.573953+00:00",
+  "mode": "live",
+  "status": "incomplete",
+  "questions_sha256": "906bc5fec64a509153578d1fc6b27157f88bc672575aef3be694688a708971a8",
+  "questions": [
+    {
+      "expected_section_id": "m45989",
+      "expected_section_title": "Homeostasis",
+      "id": "synthetic-01",
+      "origin": "synthetic",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml",
+      "supporting_quote": "Negative feedback is a mechanism that reverses a deviation from the set point. Therefore, negative feedback maintains body parameters within their normal range.",
+      "text": "How does a feedback loop bring a body condition back toward its usual range after a change?"
+    },
+    {
+      "expected_section_id": "m46509",
+      "expected_section_title": "Nervous Tissue",
+      "id": "synthetic-02",
+      "origin": "synthetic",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml",
+      "supporting_quote": "Many axons are wrapped by an insulating substance called myelin, which is actually made from glial cells. Myelin acts as insulation much like the plastic or rubber that is used to insulate electrical wires. A key difference between myelin and the insulation on a wire is that there are gaps in the myelin covering of an axon. Each gap is called a node of Ranvier and is important to the way that electrical signals travel down the axon.",
+      "text": "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?"
+    },
+    {
+      "expected_section_id": "m46521",
+      "expected_section_title": "Gas Exchange",
+      "id": "synthetic-03",
+      "origin": "synthetic",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46521/index.cnxml",
+      "supporting_quote": "The actual exchange of gases occurs due to simple diffusion. Energy is not required to move oxygen or carbon dioxide across membranes.",
+      "text": "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?"
+    },
+    {
+      "expected_section_id": "m46431",
+      "expected_section_title": "Microscopic Anatomy of the Kidney",
+      "id": "synthetic-04",
+      "origin": "synthetic",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml",
+      "supporting_quote": "Overall, filtration is regulated by fenestrations in capillary endothelial cells, podocytes with filtration slits, membrane charge, and the basement membrane between capillary cells.",
+      "text": "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?"
+    },
+    {
+      "expected_section_id": "m46512",
+      "expected_section_title": "The Small and Large Intestines",
+      "id": "synthetic-05",
+      "origin": "synthetic",
+      "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml",
+      "supporting_quote": "These features, which increase the absorptive surface area of the small intestine more than 600-fold, include circular folds, villi, and microvilli",
+      "text": "Which folds and small surface projections help the small intestine take in nutrients?"
+    }
+  ],
+  "settings": {
+    "answer_generation": false,
+    "baseline": {
+      "chunk_size": 256,
+      "chunk_unit": "Unicode word tokens",
+      "chunks": 3344,
+      "lowercase": true,
+      "method": "baseline_tfidf",
+      "ngram_range": [
+        1,
+        2
+      ],
+      "norm": "l2",
+      "overlap": 64,
+      "scikit_learn_version": "1.9.1",
+      "section_rule": "most overlapping source tokens; ties use document order",
+      "similarity": "cosine",
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "stop_words": "scikit-learn English list",
+      "sublinear_tf": true,
+      "token_pattern": "\\b\\w+\\b",
+      "vector_kind": "TF-IDF word vectors",
+      "vocabulary_size": 230574,
+      "window_rule": "fixed windows across text-bearing sections; navigation headings excluded"
+    },
+    "dashboard": false,
+    "full_toc_entries": 232,
+    "index_id": "c79e08d7ba84372b60247bdf108815303a08897e6bcd9c2c3938369ff5d9ce3b",
+    "max_questions": 5,
+    "mode_notice": "Claude results are live only when their status records a completed API response. Blocked and error outcomes are not predictions.",
+    "purpose": "development smoke test; not a held-out benchmark",
+    "question_file_sha256": "3ba74edb5366ee897c2dc5765513da8a21e31192db79b8b76d7ed89a8a87ba2c",
+    "question_set_version": "development-v1",
+    "script_file_sha256": null,
+    "source_sha256": "2540e62e2145ee9557bc37c0fa35288f39bec16fc304227f2c31d1497ef48492",
+    "toc_model": "claude-opus-5-5"
+  },
+  "results": [
+    {
+      "question_id": "synthetic-01",
+      "method": "baseline_tfidf",
+      "selection": {
+        "details": {
+          "chunk_id": "4659323ac3a24cc1d15a77288f6d5ceb9b2700529c6d1de45d656748dd33f576",
+          "chunk_position": 61,
+          "chunk_text": "in the body?\n\nPositive Feedback\n\nPositive feedback intensifies a change in the body’s physiological condition rather than reversing it. A deviation from the normal range results in more change, and the system moves farther away from the normal range. Positive feedback in the body is normal only when there is a definite end point. Childbirth and the body’s response to blood loss are two examples of positive feedback loops that are normal but are activated only when needed.\n\nChildbirth at full term is an example of a situation in which the maintenance of the existing body state is not desired. Enormous changes in a person’s body are required to expel the baby at the end of pregnancy. And the events of childbirth, once begun, must progress rapidly to a conclusion or the life of a person giving birth and the baby are at risk. The extreme muscular work of labor and delivery are the result of a positive feedback system ([See #fig-ch01_05_02]).\n\nPositive Feedback Loop\n\nImage description: This diagram shows the steps of a positive feedback loop as a series of stepwise arrows looping around a diagram of an infant within the uterus of a pregnant woman. Initially the head of the baby pushes against the cervix, transmitting nerve impulses from the cervix to the brain. Next the brain stimulates the pituitary gland to secrete oxytocin which is carried in the bloodstream to the uterus. Finally, the oxytocin simulates uterine contractions and pushes the baby harder into the cervix. As the head",
+          "end_offset": 77201,
+          "section_rule": "most overlapping source tokens; ties use document order",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "source_spans": [
+            {
+              "end_offset": 77201,
+              "section_id": "m45989",
+              "start_offset": 75699,
+              "token_count": 256
+            }
+          ],
+          "start_offset": 75699,
+          "token_end": 11968,
+          "token_start": 11712
+        },
+        "method": "baseline_tfidf",
+        "reason": null,
+        "score": 0.12379786231957429,
+        "section_id": "m45989",
+        "section_title": "Homeostasis",
+        "status": "selected"
+      }
+    },
+    {
+      "question_id": "synthetic-01",
+      "method": "toc_claude",
+      "selection": {
+        "details": {
+          "input_tokens": null,
+          "max_input_tokens": 20000,
+          "mode": "live_claude",
+          "model": "claude-opus-5-5",
+          "prompt_sha256": "5cf1ff95d9334317fac5c1122702c7c0174c7a880884c5f3e9400f5b47aaea79",
+          "raw_response": null,
+          "reason_code": "api_error",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "toc_entry_count": 232,
+          "toc_sha256": "63fda5e980531aa1c2b8fdee53e4c37d93222b5e7a0f73fe998f49dcfeb5e577",
+          "token_count_kind": "api_count"
+        },
+        "method": "toc_claude",
+        "reason": "The Anthropic section request failed. Check API access and model availability.",
+        "score": null,
+        "section_id": null,
+        "section_title": null,
+        "status": "error"
+      }
+    },
+    {
+      "question_id": "synthetic-02",
+      "method": "baseline_tfidf",
+      "selection": {
+        "details": {
+          "chunk_id": "8ece6d3c15cdb2a9133bc81284c0ea9251adbcb67ec426cea76e3a0733653333",
+          "chunk_position": 1249,
+          "chunk_text": "at its end, where it connects to the dendrites of another neuron. Each connection between an axon branch and a dendrite is called a synapse. The cell membrane completely surrounds the cell body, dendrites, and its axon. The axon of another nerve is seen in the upper left of the diagram connecting with the dendrites of the central neuron.\n[Image not rendered; source file: ../../media/1206_The_Neuron.jpg]\n\nThe major parts of the neuron are labeled on a multipolar neuron from the CNS.\n\nWhere the axon emerges from the cell body, there is a special region referred to as the axon hillock. This is a tapering of the cell body toward the axon fiber. Within the axon hillock, the cytoplasm changes to a solution of limited components called axoplasm. As the axon hillock narrows, it transitions into the beginning of the axon called the initial segment. Action potentials are generated in the trigger zone, which is a combination of the axon hillock and initial segment.\n\nMany axons are wrapped by an insulating substance called myelin, which is actually made from glial cells. Myelin acts as insulation much like the plastic or rubber that is used to insulate electrical wires. A key difference between myelin and the insulation on a wire is that there are gaps in the myelin covering of an axon. Each gap is called a node of Ranvier and is important to the way that electrical signals travel down the axon. The length of the axon between each gap, which is wrapped in myelin, is",
+          "end_offset": 1511711,
+          "section_rule": "most overlapping source tokens; ties use document order",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "source_spans": [
+            {
+              "end_offset": 1511711,
+              "section_id": "m46509",
+              "start_offset": 1510233,
+              "token_count": 256
+            }
+          ],
+          "start_offset": 1510233,
+          "token_end": 240064,
+          "token_start": 239808
+        },
+        "method": "baseline_tfidf",
+        "reason": null,
+        "score": 0.07051548762471778,
+        "section_id": "m46509",
+        "section_title": "Nervous Tissue",
+        "status": "selected"
+      }
+    },
+    {
+      "question_id": "synthetic-02",
+      "method": "toc_claude",
+      "selection": {
+        "details": {
+          "input_tokens": null,
+          "max_input_tokens": 20000,
+          "mode": "live_claude",
+          "model": "claude-opus-5-5",
+          "prompt_sha256": "fb95be0c091b3d56d899c44c42729a2d39a23bcfde63c4b997ba185c1e21934a",
+          "raw_response": null,
+          "reason_code": "api_error",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "toc_entry_count": 232,
+          "toc_sha256": "63fda5e980531aa1c2b8fdee53e4c37d93222b5e7a0f73fe998f49dcfeb5e577",
+          "token_count_kind": "api_count"
+        },
+        "method": "toc_claude",
+        "reason": "The Anthropic section request failed. Check API access and model availability.",
+        "score": null,
+        "section_id": null,
+        "section_title": null,
+        "status": "error"
+      }
+    },
+    {
+      "question_id": "synthetic-03",
+      "method": "baseline_tfidf",
+      "selection": {
+        "details": {
+          "chunk_id": "ae0b6f0fd69063789d436b82be2912f0a6a75b4b5108a4d6cec8e1a068ae8c73",
+          "chunk_position": 3053,
+          "chunk_text": "or by an allergic reaction. In the limbs, the symptoms of edema include swelling of the subcutaneous tissues, an increase in the normal size of the limb, and stretched, tight skin. One quick way to check for subcutaneous edema localized in a limb is to press a finger into the suspected area. Edema is likely if the depression persists for several seconds after the finger is removed (which is called “pitting”).\n\nPulmonary edema is excess fluid in the air sacs of the lungs, a common symptom of heart and/or kidney failure. People with pulmonary edema likely will experience difficulty breathing, and they may experience chest pain. Pulmonary edema can be life threatening, because it compromises gas exchange in the lungs, and anyone having symptoms should immediately seek medical care.\n\nIn pulmonary edema resulting from heart failure, excessive leakage of water occurs because fluids get “backed up” in the pulmonary capillaries of the lungs, when the left ventricle of the heart is unable to pump sufficient blood into the systemic circulation. Because the left side of the heart is unable to pump out its normal volume of blood, the blood in the pulmonary circulation gets “backed up,” starting with the left atrium, then into the pulmonary veins, and then into pulmonary capillaries. The resulting increased hydrostatic pressure within pulmonary capillaries, as blood is still coming in from the pulmonary arteries, causes fluid to be pushed out of them and into lung tissues.\n\nOther causes of edema include damage to blood vessels and/or lymphatic vessels, or",
+          "end_offset": 3738285,
+          "section_rule": "most overlapping source tokens; ties use document order",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "source_spans": [
+            {
+              "end_offset": 3738285,
+              "section_id": "m46411",
+              "start_offset": 3736717,
+              "token_count": 256
+            }
+          ],
+          "start_offset": 3736717,
+          "token_end": 586432,
+          "token_start": 586176
+        },
+        "method": "baseline_tfidf",
+        "reason": null,
+        "score": 0.09254064598922025,
+        "section_id": "m46411",
+        "section_title": "Body Fluids and Fluid Compartments",
+        "status": "selected"
+      }
+    },
+    {
+      "question_id": "synthetic-03",
+      "method": "toc_claude",
+      "selection": {
+        "details": {
+          "input_tokens": null,
+          "max_input_tokens": 20000,
+          "mode": "live_claude",
+          "model": "claude-opus-5-5",
+          "prompt_sha256": "8f1d0aaa8f6fbdd7c4cc2f8c022546488d11dae9e67e27672219f321ec8766af",
+          "raw_response": null,
+          "reason_code": "api_error",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "toc_entry_count": 232,
+          "toc_sha256": "63fda5e980531aa1c2b8fdee53e4c37d93222b5e7a0f73fe998f49dcfeb5e577",
+          "token_count_kind": "api_count"
+        },
+        "method": "toc_claude",
+        "reason": "The Anthropic section request failed. Check API access and model availability.",
+        "score": null,
+        "section_id": null,
+        "section_title": null,
+        "status": "error"
+      }
+    },
+    {
+      "question_id": "synthetic-04",
+      "method": "baseline_tfidf",
+      "selection": {
+        "details": {
+          "chunk_id": "e5959221aed215c03fdc5a6832eb654b542d7cef2088b3f0d2190b1b8b11300a",
+          "chunk_position": 2963,
+          "chunk_text": "arcuate and medullary\nb. interlobar and interlobular\nc. peritubular and vasa recta\nd. peritubular and medullary\n\nSolution:\nC\n\nExercise:\nQuestion:\nThe functional unit of the kidney is called ________.\n\na. the renal hilus\nb. the renal corpuscle\nc. the nephron\nd. Bowman’s capsule\n\nSolution:\nC\n\nCritical Thinking Questions\n\nExercise:\nQuestion:\nWhich structures make up the renal corpuscle?\n\nSolution:\nThe structures that make up the renal corpuscle are the glomerulus, Bowman’s capsule, and PCT.\n\nExercise:\nQuestion:\nWhat are the major structures comprising the filtration membrane?\n\nSolution:\nThe major structures comprising the filtration membrane are fenestrations and podocyte fenestra, fused basement membrane, and filtration slits.\n\nGlossary:\nangiotensin-converting enzyme (ACE):  enzyme produced by the lungs that catalyzes the reaction of inactive angiotensin I into active angiotensin II\n\nangiotensin I:  protein produced by the enzymatic action of renin on angiotensinogen; inactive precursor of angiotensin II\n\nangiotensin II:  protein produced by the enzymatic action of ACE on inactive angiotensin I; actively causes vasoconstriction and stimulates aldosterone release by the adrenal cortex\n\nangiotensinogen:  inactive protein in the circulation produced by the liver; precursor of angiotensin I; must be modified by the enzymes renin and ACE to be activated\n\naquaporin:  protein-forming water channels through the lipid bilayer of the cell; allows water to cross; activation in the collecting ducts is under the control of ADH\n\nbrush border:  formed by microvilli on the surface of certain cuboidal cells; in the kidney it is found in the PCT; increases surface area for absorption in the kidney\n\nfenestrations:  small windows through a",
+          "end_offset": 3626576,
+          "section_rule": "most overlapping source tokens; ties use document order",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "source_spans": [
+            {
+              "end_offset": 3626576,
+              "section_id": "m46431",
+              "start_offset": 3624829,
+              "token_count": 256
+            }
+          ],
+          "start_offset": 3624829,
+          "token_end": 569152,
+          "token_start": 568896
+        },
+        "method": "baseline_tfidf",
+        "reason": null,
+        "score": 0.09334299127716757,
+        "section_id": "m46431",
+        "section_title": "Microscopic Anatomy of the Kidney",
+        "status": "selected"
+      }
+    },
+    {
+      "question_id": "synthetic-04",
+      "method": "toc_claude",
+      "selection": {
+        "details": {
+          "input_tokens": null,
+          "max_input_tokens": 20000,
+          "mode": "live_claude",
+          "model": "claude-opus-5-5",
+          "prompt_sha256": "e992a73dd02f53ea1b1de60a0476a26d64b13138bfc8aff8eef41b17826184cc",
+          "raw_response": null,
+          "reason_code": "api_error",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "toc_entry_count": 232,
+          "toc_sha256": "63fda5e980531aa1c2b8fdee53e4c37d93222b5e7a0f73fe998f49dcfeb5e577",
+          "token_count_kind": "api_count"
+        },
+        "method": "toc_claude",
+        "reason": "The Anthropic section request failed. Check API access and model availability.",
+        "score": null,
+        "section_id": null,
+        "section_title": null,
+        "status": "error"
+      }
+    },
+    {
+      "question_id": "synthetic-05",
+      "method": "baseline_tfidf",
+      "selection": {
+        "details": {
+          "chunk_id": "e2d7d2412a321241ea15df6a3cea3cc773bbfe6ca1f8a6f6e89cbb714184d094",
+          "chunk_position": 2756,
+          "chunk_text": "in the mucosa and submucosa. Beginning near the proximal part of the duodenum and ending near the middle of the ileum, these folds facilitate absorption. Their shape causes the chyme to spiral, rather than move in a straight line, through the small intestine. Spiraling slows the movement of chyme and provides the time needed for nutrients to be fully absorbed.\n\nVilli\n\nWithin the circular folds are small (0.5–1 mm long) hairlike vascularized projections called villi (singular = villus) that give the mucosa a furry texture. There are about 20 to 40 villi per square millimeter, increasing the surface area of the epithelium tremendously. The mucosal epithelium, primarily composed of absorptive cells, covers the villi. In addition to muscle and connective tissue to support its structure, each villus contains a capillary bed composed of one arteriole and one venule, as well as a lymphatic capillary called a lacteal. The breakdown products of carbohydrates and proteins (sugars and amino acids) can enter the bloodstream directly, but lipid breakdown products are absorbed by the lacteals and transported to the bloodstream via the lymphatic system.\n\nMicrovilli\n\nAs their name suggests, microvilli (singular = microvillus) are much smaller (1 µm) than villi. They are cylindrical apical surface extensions of the plasma membrane of the mucosa’s epithelial cells, and are supported by microfilaments within those cells. Although their small size makes it difficult to see each microvillus, their combined microscopic appearance suggests a mass of bristles, which is termed the brush border. Fixed to the surface of the microvilli membranes are",
+          "end_offset": 3367769,
+          "section_rule": "most overlapping source tokens; ties use document order",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "source_spans": [
+            {
+              "end_offset": 3367769,
+              "section_id": "m46512",
+              "start_offset": 3366120,
+              "token_count": 256
+            }
+          ],
+          "start_offset": 3366120,
+          "token_end": 529408,
+          "token_start": 529152
+        },
+        "method": "baseline_tfidf",
+        "reason": null,
+        "score": 0.12190089742366907,
+        "section_id": "m46512",
+        "section_title": "The Small and Large Intestines",
+        "status": "selected"
+      }
+    },
+    {
+      "question_id": "synthetic-05",
+      "method": "toc_claude",
+      "selection": {
+        "details": {
+          "input_tokens": null,
+          "max_input_tokens": 20000,
+          "mode": "live_claude",
+          "model": "claude-opus-5-5",
+          "prompt_sha256": "469eb9902fc80047e328917159d11f5dfc7a952ed9199a32c90215c761084a55",
+          "raw_response": null,
+          "reason_code": "api_error",
+          "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+          "toc_entry_count": 232,
+          "toc_sha256": "63fda5e980531aa1c2b8fdee53e4c37d93222b5e7a0f73fe998f49dcfeb5e577",
+          "token_count_kind": "api_count"
+        },
+        "method": "toc_claude",
+        "reason": "The Anthropic section request failed. Check API access and model availability.",
+        "score": null,
+        "section_id": null,
+        "section_title": null,
+        "status": "error"
+      }
+    }
+  ],
+  "sample": [
+    {
+      "question_id": "synthetic-01",
+      "question": "How does a feedback loop bring a body condition back toward its usual range after a change?",
+      "baseline_section": "Homeostasis",
+      "baseline_status": "selected",
+      "toc_section": null,
+      "toc_status": "error",
+      "toc_mode": "live_claude",
+      "toc_reason": "The Anthropic section request failed. Check API access and model availability."
+    },
+    {
+      "question_id": "synthetic-02",
+      "question": "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?",
+      "baseline_section": "Nervous Tissue",
+      "baseline_status": "selected",
+      "toc_section": null,
+      "toc_status": "error",
+      "toc_mode": "live_claude",
+      "toc_reason": "The Anthropic section request failed. Check API access and model availability."
+    },
+    {
+      "question_id": "synthetic-03",
+      "question": "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?",
+      "baseline_section": "Body Fluids and Fluid Compartments",
+      "baseline_status": "selected",
+      "toc_section": null,
+      "toc_status": "error",
+      "toc_mode": "live_claude",
+      "toc_reason": "The Anthropic section request failed. Check API access and model availability."
+    },
+    {
+      "question_id": "synthetic-04",
+      "question": "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?",
+      "baseline_section": "Microscopic Anatomy of the Kidney",
+      "baseline_status": "selected",
+      "toc_section": null,
+      "toc_status": "error",
+      "toc_mode": "live_claude",
+      "toc_reason": "The Anthropic section request failed. Check API access and model availability."
+    },
+    {
+      "question_id": "synthetic-05",
+      "question": "Which folds and small surface projections help the small intestine take in nutrients?",
+      "baseline_section": "The Small and Large Intestines",
+      "baseline_status": "selected",
+      "toc_section": null,
+      "toc_status": "error",
+      "toc_mode": "live_claude",
+      "toc_reason": "The Anthropic section request failed. Check API access and model availability."
+    }
+  ]
+}

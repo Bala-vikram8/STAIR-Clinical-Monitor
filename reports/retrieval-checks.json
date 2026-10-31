@@ -1,0 +1,120 @@
+{
+  "checked_at": "2026-10-31T10:45:45.113868+00:00",
+  "scope": "Retrieval implementations and paired synthetic development tests; stop before Stage 5 dashboard",
+  "tests": {
+    "tests": 169,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "test_command": ".venv/bin/python -m pytest -q --junitxml=reports/retrieval-tests.xml",
+  "source_unchanged": true,
+  "source": {
+    "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+    "raw_sha256": "2540e62e2145ee9557bc37c0fa35288f39bec16fc304227f2c31d1497ef48492",
+    "publication_date_note": "unknown – publisher content"
+  },
+  "row_counts": {
+    "snapshots": 1,
+    "sections": 232,
+    "toc_entries": 232,
+    "retrieval_indexes": 1,
+    "synthetic_runs": 2,
+    "retrieval_results": 28
+  },
+  "baseline": {
+    "chunk_size": 256,
+    "chunk_unit": "Unicode word tokens",
+    "chunks": 3344,
+    "lowercase": true,
+    "method": "baseline_tfidf",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "norm": "l2",
+    "overlap": 64,
+    "scikit_learn_version": "1.9.1",
+    "section_rule": "most overlapping source tokens; ties use document order",
+    "similarity": "cosine",
+    "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+    "stop_words": "scikit-learn English list",
+    "sublinear_tf": true,
+    "token_pattern": "\\b\\w+\\b",
+    "vector_kind": "TF-IDF word vectors",
+    "vocabulary_size": 230574,
+    "window_rule": "fixed windows across text-bearing sections; navigation headings excluded"
+  },
+  "offline_run_id": "133b99f1-842d-4525-83d3-4afa48bea55a",
+  "offline_questions": 9,
+  "offline_method_results": 18,
+  "offline_status": "complete",
+  "offline_toc_notice": "Scripted test-double responses, not Claude predictions or retrieval quality evidence.",
+  "offline_sample": [
+    {
+      "question_id": "synthetic-01",
+      "question": "How does a feedback loop bring a body condition back toward its usual range after a change?",
+      "baseline_section": "Homeostasis",
+      "baseline_status": "selected",
+      "toc_section": "Homeostasis",
+      "toc_status": "selected",
+      "toc_mode": "offline_scripted",
+      "toc_reason": null
+    },
+    {
+      "question_id": "synthetic-02",
+      "question": "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?",
+      "baseline_section": "Nervous Tissue",
+      "baseline_status": "selected",
+      "toc_section": "Nervous Tissue",
+      "toc_status": "selected",
+      "toc_mode": "offline_scripted",
+      "toc_reason": null
+    },
+    {
+      "question_id": "synthetic-03",
+      "question": "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?",
+      "baseline_section": "Body Fluids and Fluid Compartments",
+      "baseline_status": "selected",
+      "toc_section": "Gas Exchange",
+      "toc_status": "selected",
+      "toc_mode": "offline_scripted",
+      "toc_reason": null
+    },
+    {
+      "question_id": "synthetic-04",
+      "question": "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?",
+      "baseline_section": "Microscopic Anatomy of the Kidney",
+      "baseline_status": "selected",
+      "toc_section": "Microscopic Anatomy of the Kidney",
+      "toc_status": "selected",
+      "toc_mode": "offline_scripted",
+      "toc_reason": null
+    },
+    {
+      "question_id": "synthetic-05",
+      "question": "Which folds and small surface projections help the small intestine take in nutrients?",
+      "baseline_section": "The Small and Large Intestines",
+      "baseline_status": "selected",
+      "toc_section": "The Small and Large Intestines",
+      "toc_status": "selected",
+      "toc_mode": "offline_scripted",
+      "toc_reason": null
+    }
+  ],
+  "live_readiness_run_id": "613957c8-9da2-4c79-a87f-3b6f6155fc7e",
+  "live_questions": 5,
+  "live_status": "incomplete",
+  "live_toc_predictions": 0,
+  "live_blocker": "ANTHROPIC_API_KEY missing; api.anthropic.com not allowed in current runtime. Draft requirements saved; not applied.",
+  "anthropic_api_requests": 0,
+  "dashboard_built": false,
+  "answer_generation_built": false,
+  "sqlite_integrity": "ok",
+  "sqlite_reference_check": "ok",
+  "limits": [
+    "TF-IDF lexical word-vector baseline, not a neural embedding comparison.",
+    "Synthetic development questions, not a held-out final benchmark.",
+    "ToC full-prompt provider token count and model availability unverified until live API access works."
+  ]
+}

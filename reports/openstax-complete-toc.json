@@ -1,0 +1,4609 @@
+{
+  "source": "OpenStax/Rice University, Anatomy and Physiology 2e",
+  "revision": "5ae32b3f4bc24ed003e91dc38bf47dba80751044",
+  "licence": "CC BY-NC-SA 4.0; attribution preserved; extracted hierarchy with publisher titles",
+  "checked_at": "2026-10-31T10:29:01.530189+00:00",
+  "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "toc_entries": [
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 0,
+      "title": "Preface",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46844/index.cnxml",
+      "level": 1,
+      "section_id": "m46844",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 1,
+      "title": "Levels of Organization",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0001",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 2,
+      "title": "An Introduction to the Human Body",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0002",
+      "parent_position": 1
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 3,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45981/index.cnxml",
+      "level": 3,
+      "section_id": "m45981",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 4,
+      "title": "Overview of Anatomy and Physiology",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45983/index.cnxml",
+      "level": 3,
+      "section_id": "m45983",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 5,
+      "title": "Structural Organization of the Human Body",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45985/index.cnxml",
+      "level": 3,
+      "section_id": "m45985",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 6,
+      "title": "Functions of Human Life",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45986/index.cnxml",
+      "level": 3,
+      "section_id": "m45986",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 7,
+      "title": "Requirements for Human Life",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45988/index.cnxml",
+      "level": 3,
+      "section_id": "m45988",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 8,
+      "title": "Homeostasis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml",
+      "level": 3,
+      "section_id": "m45989",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 9,
+      "title": "Anatomical Terminology",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45990/index.cnxml",
+      "level": 3,
+      "section_id": "m45990",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 10,
+      "title": "Medical Imaging",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45991/index.cnxml",
+      "level": 3,
+      "section_id": "m45991",
+      "parent_position": 2
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 11,
+      "title": "The Chemical Level of Organization",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0011",
+      "parent_position": 1
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 12,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45996/index.cnxml",
+      "level": 3,
+      "section_id": "m45996",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 13,
+      "title": "Elements and Atoms: The Building Blocks of Matter",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45998/index.cnxml",
+      "level": 3,
+      "section_id": "m45998",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 14,
+      "title": "Chemical Bonds",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46000/index.cnxml",
+      "level": 3,
+      "section_id": "m46000",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 15,
+      "title": "Chemical Reactions",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46004/index.cnxml",
+      "level": 3,
+      "section_id": "m46004",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 16,
+      "title": "Inorganic Compounds Essential to Human Functioning",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46006/index.cnxml",
+      "level": 3,
+      "section_id": "m46006",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 17,
+      "title": "Organic Compounds Essential to Human Functioning",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46008/index.cnxml",
+      "level": 3,
+      "section_id": "m46008",
+      "parent_position": 11
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 18,
+      "title": "The Cellular Level of Organization",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0018",
+      "parent_position": 1
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 19,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46016/index.cnxml",
+      "level": 3,
+      "section_id": "m46016",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 20,
+      "title": "The Cell Membrane",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46021/index.cnxml",
+      "level": 3,
+      "section_id": "m46021",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 21,
+      "title": "The Cytoplasm and Cellular Organelles",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46023/index.cnxml",
+      "level": 3,
+      "section_id": "m46023",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 22,
+      "title": "The Nucleus and DNA Replication",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46073/index.cnxml",
+      "level": 3,
+      "section_id": "m46073",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 23,
+      "title": "Protein Synthesis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46032/index.cnxml",
+      "level": 3,
+      "section_id": "m46032",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 24,
+      "title": "Cell Growth and Division",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46034/index.cnxml",
+      "level": 3,
+      "section_id": "m46034",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 25,
+      "title": "Cellular Differentiation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46036/index.cnxml",
+      "level": 3,
+      "section_id": "m46036",
+      "parent_position": 18
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 26,
+      "title": "The Tissue Level of Organization",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0026",
+      "parent_position": 1
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 27,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46045/index.cnxml",
+      "level": 3,
+      "section_id": "m46045",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 28,
+      "title": "Types of Tissues",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46046/index.cnxml",
+      "level": 3,
+      "section_id": "m46046",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 29,
+      "title": "Epithelial Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46048/index.cnxml",
+      "level": 3,
+      "section_id": "m46048",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 30,
+      "title": "Connective Tissue Supports and Protects",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46049/index.cnxml",
+      "level": 3,
+      "section_id": "m46049",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 31,
+      "title": "Muscle Tissue and Motion",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46055/index.cnxml",
+      "level": 3,
+      "section_id": "m46055",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 32,
+      "title": "Nervous Tissue Mediates Perception and Response",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46057/index.cnxml",
+      "level": 3,
+      "section_id": "m46057",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 33,
+      "title": "Tissue Injury and Aging",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46058/index.cnxml",
+      "level": 3,
+      "section_id": "m46058",
+      "parent_position": 26
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 34,
+      "title": "Support and Movement",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0034",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 35,
+      "title": "The Integumentary System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0035",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 36,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46059/index.cnxml",
+      "level": 3,
+      "section_id": "m46059",
+      "parent_position": 35
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 37,
+      "title": "Layers of the Skin",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46060/index.cnxml",
+      "level": 3,
+      "section_id": "m46060",
+      "parent_position": 35
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 38,
+      "title": "Accessory Structures of the Skin",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46062/index.cnxml",
+      "level": 3,
+      "section_id": "m46062",
+      "parent_position": 35
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 39,
+      "title": "Functions of the Integumentary System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46064/index.cnxml",
+      "level": 3,
+      "section_id": "m46064",
+      "parent_position": 35
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 40,
+      "title": "Diseases, Disorders, and Injuries of the Integumentary System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46066/index.cnxml",
+      "level": 3,
+      "section_id": "m46066",
+      "parent_position": 35
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 41,
+      "title": "Bone Tissue and the Skeletal System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0041",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 42,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46290/index.cnxml",
+      "level": 3,
+      "section_id": "m46290",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 43,
+      "title": "The Functions of the Skeletal System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46341/index.cnxml",
+      "level": 3,
+      "section_id": "m46341",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 44,
+      "title": "Bone Classification",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46282/index.cnxml",
+      "level": 3,
+      "section_id": "m46282",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 45,
+      "title": "Bone Structure",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46281/index.cnxml",
+      "level": 3,
+      "section_id": "m46281",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 46,
+      "title": "Bone Formation and Development",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46301/index.cnxml",
+      "level": 3,
+      "section_id": "m46301",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 47,
+      "title": "Fractures: Bone Repair",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46342/index.cnxml",
+      "level": 3,
+      "section_id": "m46342",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 48,
+      "title": "Exercise, Nutrition, Hormones, and Bone Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46305/index.cnxml",
+      "level": 3,
+      "section_id": "m46305",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 49,
+      "title": "Calcium Homeostasis: Interactions of the Skeletal System and Other Organ Systems",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46295/index.cnxml",
+      "level": 3,
+      "section_id": "m46295",
+      "parent_position": 41
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 50,
+      "title": "Axial Skeleton",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0050",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 51,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46347/index.cnxml",
+      "level": 3,
+      "section_id": "m46347",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 52,
+      "title": "Divisions of the Skeletal System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46344/index.cnxml",
+      "level": 3,
+      "section_id": "m46344",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 53,
+      "title": "The Skull",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46355/index.cnxml",
+      "level": 3,
+      "section_id": "m46355",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 54,
+      "title": "The Vertebral Column",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46352/index.cnxml",
+      "level": 3,
+      "section_id": "m46352",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 55,
+      "title": "The Thoracic Cage",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46350/index.cnxml",
+      "level": 3,
+      "section_id": "m46350",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 56,
+      "title": "Embryonic Development of the Axial Skeleton",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46348/index.cnxml",
+      "level": 3,
+      "section_id": "m46348",
+      "parent_position": 50
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 57,
+      "title": "The Appendicular Skeleton",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0057",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 58,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46370/index.cnxml",
+      "level": 3,
+      "section_id": "m46370",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 59,
+      "title": "The Pectoral Girdle",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46374/index.cnxml",
+      "level": 3,
+      "section_id": "m46374",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 60,
+      "title": "Bones of the Upper Limb",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46368/index.cnxml",
+      "level": 3,
+      "section_id": "m46368",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 61,
+      "title": "The Pelvic Girdle and Pelvis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46375/index.cnxml",
+      "level": 3,
+      "section_id": "m46375",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 62,
+      "title": "Bones of the Lower Limb",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46364/index.cnxml",
+      "level": 3,
+      "section_id": "m46364",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 63,
+      "title": "Development of the Appendicular Skeleton",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46376/index.cnxml",
+      "level": 3,
+      "section_id": "m46376",
+      "parent_position": 57
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 64,
+      "title": "Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0064",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 65,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46402/index.cnxml",
+      "level": 3,
+      "section_id": "m46402",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 66,
+      "title": "Classification of Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46383/index.cnxml",
+      "level": 3,
+      "section_id": "m46383",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 67,
+      "title": "Fibrous Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46403/index.cnxml",
+      "level": 3,
+      "section_id": "m46403",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 68,
+      "title": "Cartilaginous Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46381/index.cnxml",
+      "level": 3,
+      "section_id": "m46381",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 69,
+      "title": "Synovial Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46394/index.cnxml",
+      "level": 3,
+      "section_id": "m46394",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 70,
+      "title": "Types of Body Movements",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46398/index.cnxml",
+      "level": 3,
+      "section_id": "m46398",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 71,
+      "title": "Anatomy of Selected Synovial Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46377/index.cnxml",
+      "level": 3,
+      "section_id": "m46377",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 72,
+      "title": "Development of Joints",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46388/index.cnxml",
+      "level": 3,
+      "section_id": "m46388",
+      "parent_position": 64
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 73,
+      "title": "Muscle Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0073",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 74,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46450/index.cnxml",
+      "level": 3,
+      "section_id": "m46450",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 75,
+      "title": "Overview of Muscle Tissues",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46473/index.cnxml",
+      "level": 3,
+      "section_id": "m46473",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 76,
+      "title": "Skeletal Muscle",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46476/index.cnxml",
+      "level": 3,
+      "section_id": "m46476",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 77,
+      "title": "Muscle Fiber Contraction and Relaxation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46447/index.cnxml",
+      "level": 3,
+      "section_id": "m46447",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 78,
+      "title": "Nervous System Control of Muscle Tension",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46470/index.cnxml",
+      "level": 3,
+      "section_id": "m46470",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 79,
+      "title": "Types of Muscle Fibers",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46480/index.cnxml",
+      "level": 3,
+      "section_id": "m46480",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 80,
+      "title": "Exercise and Muscle Performance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46438/index.cnxml",
+      "level": 3,
+      "section_id": "m46438",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 81,
+      "title": "Cardiac Muscle Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46404/index.cnxml",
+      "level": 3,
+      "section_id": "m46404",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 82,
+      "title": "Smooth Muscle",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46478/index.cnxml",
+      "level": 3,
+      "section_id": "m46478",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 83,
+      "title": "Development and Regeneration of Muscle Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46407/index.cnxml",
+      "level": 3,
+      "section_id": "m46407",
+      "parent_position": 73
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 84,
+      "title": "The Muscular System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0084",
+      "parent_position": 34
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 85,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46492/index.cnxml",
+      "level": 3,
+      "section_id": "m46492",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 86,
+      "title": "Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46487/index.cnxml",
+      "level": 3,
+      "section_id": "m46487",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 87,
+      "title": "Naming Skeletal Muscles",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46498/index.cnxml",
+      "level": 3,
+      "section_id": "m46498",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 88,
+      "title": "Axial Muscles of the Head, Neck, and Back",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46484/index.cnxml",
+      "level": 3,
+      "section_id": "m46484",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 89,
+      "title": "Axial Muscles of the Abdominal Wall, and Thorax",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46485/index.cnxml",
+      "level": 3,
+      "section_id": "m46485",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 90,
+      "title": "Muscles of the Pectoral Girdle and Upper Limbs",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46495/index.cnxml",
+      "level": 3,
+      "section_id": "m46495",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 91,
+      "title": "Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46482/index.cnxml",
+      "level": 3,
+      "section_id": "m46482",
+      "parent_position": 84
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 92,
+      "title": "Regulation, Integration, and Control",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0092",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 93,
+      "title": "The Nervous System and Nervous Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0093",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 94,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46504/index.cnxml",
+      "level": 3,
+      "section_id": "m46504",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 95,
+      "title": "Basic Structure and Function of the Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46500/index.cnxml",
+      "level": 3,
+      "section_id": "m46500",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 96,
+      "title": "Nervous Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml",
+      "level": 3,
+      "section_id": "m46509",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 97,
+      "title": "The Function of Nervous Tissue",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46531/index.cnxml",
+      "level": 3,
+      "section_id": "m46531",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 98,
+      "title": "The Action Potential",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46526/index.cnxml",
+      "level": 3,
+      "section_id": "m46526",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 99,
+      "title": "Communication Between Neurons",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46503/index.cnxml",
+      "level": 3,
+      "section_id": "m46503",
+      "parent_position": 93
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 100,
+      "title": "Anatomy of the Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0100",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 101,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46528/index.cnxml",
+      "level": 3,
+      "section_id": "m46528",
+      "parent_position": 100
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 102,
+      "title": "The Embryologic Perspective",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46535/index.cnxml",
+      "level": 3,
+      "section_id": "m46535",
+      "parent_position": 100
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 103,
+      "title": "The Central Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46533/index.cnxml",
+      "level": 3,
+      "section_id": "m46533",
+      "parent_position": 100
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 104,
+      "title": "Circulation and the Central Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46719/index.cnxml",
+      "level": 3,
+      "section_id": "m46719",
+      "parent_position": 100
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 105,
+      "title": "The Peripheral Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46553/index.cnxml",
+      "level": 3,
+      "section_id": "m46553",
+      "parent_position": 100
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 106,
+      "title": "The Somatic Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0106",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 107,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46561/index.cnxml",
+      "level": 3,
+      "section_id": "m46561",
+      "parent_position": 106
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 108,
+      "title": "Sensory Perception",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46577/index.cnxml",
+      "level": 3,
+      "section_id": "m46577",
+      "parent_position": 106
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 109,
+      "title": "Central Processing",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46557/index.cnxml",
+      "level": 3,
+      "section_id": "m46557",
+      "parent_position": 106
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 110,
+      "title": "Motor Responses",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46574/index.cnxml",
+      "level": 3,
+      "section_id": "m46574",
+      "parent_position": 106
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 111,
+      "title": "The Autonomic Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0111",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 112,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46590/index.cnxml",
+      "level": 3,
+      "section_id": "m46590",
+      "parent_position": 111
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 113,
+      "title": "Divisions of the Autonomic Nervous System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46582/index.cnxml",
+      "level": 3,
+      "section_id": "m46582",
+      "parent_position": 111
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 114,
+      "title": "Autonomic Reflexes and Homeostasis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46579/index.cnxml",
+      "level": 3,
+      "section_id": "m46579",
+      "parent_position": 111
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 115,
+      "title": "Central Control",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46581/index.cnxml",
+      "level": 3,
+      "section_id": "m46581",
+      "parent_position": 111
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 116,
+      "title": "Drugs that Affect the Autonomic System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46587/index.cnxml",
+      "level": 3,
+      "section_id": "m46587",
+      "parent_position": 111
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 117,
+      "title": "The Neurological Exam",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0117",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 118,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46593/index.cnxml",
+      "level": 3,
+      "section_id": "m46593",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 119,
+      "title": "Overview of the Neurological Exam",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46594/index.cnxml",
+      "level": 3,
+      "section_id": "m46594",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 120,
+      "title": "The Mental Status Exam",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46650/index.cnxml",
+      "level": 3,
+      "section_id": "m46650",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 121,
+      "title": "The Cranial Nerve Exam",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46607/index.cnxml",
+      "level": 3,
+      "section_id": "m46607",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 122,
+      "title": "The Sensory and Motor Exams",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46640/index.cnxml",
+      "level": 3,
+      "section_id": "m46640",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 123,
+      "title": "The Coordination and Gait Exams",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46604/index.cnxml",
+      "level": 3,
+      "section_id": "m46604",
+      "parent_position": 117
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 124,
+      "title": "The Endocrine System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0124",
+      "parent_position": 92
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 125,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46682/index.cnxml",
+      "level": 3,
+      "section_id": "m46682",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 126,
+      "title": "An Overview of the Endocrine System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46656/index.cnxml",
+      "level": 3,
+      "section_id": "m46656",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 127,
+      "title": "Hormones",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46667/index.cnxml",
+      "level": 3,
+      "section_id": "m46667",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 128,
+      "title": "The Pituitary Gland and Hypothalamus",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46699/index.cnxml",
+      "level": 3,
+      "section_id": "m46699",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 129,
+      "title": "The Thyroid Gland",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46700/index.cnxml",
+      "level": 3,
+      "section_id": "m46700",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 130,
+      "title": "The Parathyroid Glands",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46687/index.cnxml",
+      "level": 3,
+      "section_id": "m46687",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 131,
+      "title": "The Adrenal Glands",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46684/index.cnxml",
+      "level": 3,
+      "section_id": "m46684",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 132,
+      "title": "The Pineal Gland",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46693/index.cnxml",
+      "level": 3,
+      "section_id": "m46693",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 133,
+      "title": "Gonadal and Placental Hormones",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46670/index.cnxml",
+      "level": 3,
+      "section_id": "m46670",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 134,
+      "title": "The Endocrine Pancreas",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46685/index.cnxml",
+      "level": 3,
+      "section_id": "m46685",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 135,
+      "title": "Organs with Secondary Endocrine Functions",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46680/index.cnxml",
+      "level": 3,
+      "section_id": "m46680",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 136,
+      "title": "Development and Aging of the Endocrine System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46658/index.cnxml",
+      "level": 3,
+      "section_id": "m46658",
+      "parent_position": 124
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 137,
+      "title": "Fluids and Transport",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0137",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 138,
+      "title": "The Cardiovascular System: Blood",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0138",
+      "parent_position": 137
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 139,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46703/index.cnxml",
+      "level": 3,
+      "section_id": "m46703",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 140,
+      "title": "An Overview of Blood",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46710/index.cnxml",
+      "level": 3,
+      "section_id": "m46710",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 141,
+      "title": "Production of the Formed Elements",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46691/index.cnxml",
+      "level": 3,
+      "section_id": "m46691",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 142,
+      "title": "Erythrocytes",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46707/index.cnxml",
+      "level": 3,
+      "section_id": "m46707",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 143,
+      "title": "Leukocytes and Platelets",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46701/index.cnxml",
+      "level": 3,
+      "section_id": "m46701",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 144,
+      "title": "Hemostasis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46705/index.cnxml",
+      "level": 3,
+      "section_id": "m46705",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 145,
+      "title": "Blood Typing",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46708/index.cnxml",
+      "level": 3,
+      "section_id": "m46708",
+      "parent_position": 138
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 146,
+      "title": "The Cardiovascular System: The Heart",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0146",
+      "parent_position": 137
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 147,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46679/index.cnxml",
+      "level": 3,
+      "section_id": "m46679",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 148,
+      "title": "Heart Anatomy",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46676/index.cnxml",
+      "level": 3,
+      "section_id": "m46676",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 149,
+      "title": "Cardiac Muscle and Electrical Activity",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46664/index.cnxml",
+      "level": 3,
+      "section_id": "m46664",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 150,
+      "title": "Cardiac Cycle",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46661/index.cnxml",
+      "level": 3,
+      "section_id": "m46661",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 151,
+      "title": "Cardiac Physiology",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46672/index.cnxml",
+      "level": 3,
+      "section_id": "m46672",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 152,
+      "title": "Development of the Heart",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46673/index.cnxml",
+      "level": 3,
+      "section_id": "m46673",
+      "parent_position": 146
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 153,
+      "title": "The Cardiovascular System: Blood Vessels and Circulation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0153",
+      "parent_position": 137
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 154,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46600/index.cnxml",
+      "level": 3,
+      "section_id": "m46600",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 155,
+      "title": "Structure and Function of Blood Vessels",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46597/index.cnxml",
+      "level": 3,
+      "section_id": "m46597",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 156,
+      "title": "Blood Flow, Blood Pressure, and Resistance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46635/index.cnxml",
+      "level": 3,
+      "section_id": "m46635",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 157,
+      "title": "Capillary Exchange",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46586/index.cnxml",
+      "level": 3,
+      "section_id": "m46586",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 158,
+      "title": "Homeostatic Regulation of the Vascular System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46603/index.cnxml",
+      "level": 3,
+      "section_id": "m46603",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 159,
+      "title": "Circulatory Pathways",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46646/index.cnxml",
+      "level": 3,
+      "section_id": "m46646",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 160,
+      "title": "Development of Blood Vessels and Fetal Circulation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46610/index.cnxml",
+      "level": 3,
+      "section_id": "m46610",
+      "parent_position": 153
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 161,
+      "title": "The Lymphatic and Immune System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0161",
+      "parent_position": 137
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 162,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46573/index.cnxml",
+      "level": 3,
+      "section_id": "m46573",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 163,
+      "title": "Anatomy of the Lymphatic and Immune Systems",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46563/index.cnxml",
+      "level": 3,
+      "section_id": "m46563",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 164,
+      "title": "Barrier Defenses and the Innate Immune Response",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46571/index.cnxml",
+      "level": 3,
+      "section_id": "m46571",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 165,
+      "title": "The Adaptive Immune Response: T lymphocytes and Their Functional Types",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46560/index.cnxml",
+      "level": 3,
+      "section_id": "m46560",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 166,
+      "title": "The Adaptive Immune Response: B-lymphocytes and Antibodies",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46558/index.cnxml",
+      "level": 3,
+      "section_id": "m46558",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 167,
+      "title": "The Immune Response against Pathogens",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46569/index.cnxml",
+      "level": 3,
+      "section_id": "m46569",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 168,
+      "title": "Diseases Associated with Depressed or Overactive Immune Responses",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46566/index.cnxml",
+      "level": 3,
+      "section_id": "m46566",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 169,
+      "title": "Transplantation and Cancer Immunology",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46583/index.cnxml",
+      "level": 3,
+      "section_id": "m46583",
+      "parent_position": 161
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 170,
+      "title": "Energy, Maintenance, and Environmental Exchange",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0170",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 171,
+      "title": "The Respiratory System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0171",
+      "parent_position": 170
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 172,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46523/index.cnxml",
+      "level": 3,
+      "section_id": "m46523",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 173,
+      "title": "Organs and Structures of the Respiratory System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46548/index.cnxml",
+      "level": 3,
+      "section_id": "m46548",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 174,
+      "title": "The Lungs",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46551/index.cnxml",
+      "level": 3,
+      "section_id": "m46551",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 175,
+      "title": "The Process of Breathing",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46549/index.cnxml",
+      "level": 3,
+      "section_id": "m46549",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 176,
+      "title": "Gas Exchange",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46521/index.cnxml",
+      "level": 3,
+      "section_id": "m46521",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 177,
+      "title": "Transport of Gases",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46545/index.cnxml",
+      "level": 3,
+      "section_id": "m46545",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 178,
+      "title": "Modifications in Respiratory Functions",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46524/index.cnxml",
+      "level": 3,
+      "section_id": "m46524",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 179,
+      "title": "Embryonic Development of the Respiratory System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46518/index.cnxml",
+      "level": 3,
+      "section_id": "m46518",
+      "parent_position": 171
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 180,
+      "title": "The Digestive System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0180",
+      "parent_position": 170
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 181,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46505/index.cnxml",
+      "level": 3,
+      "section_id": "m46505",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 182,
+      "title": "Overview of the Digestive System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46506/index.cnxml",
+      "level": 3,
+      "section_id": "m46506",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 183,
+      "title": "Digestive System Processes and Regulation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46502/index.cnxml",
+      "level": 3,
+      "section_id": "m46502",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 184,
+      "title": "The Mouth, Pharynx, and Esophagus",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46511/index.cnxml",
+      "level": 3,
+      "section_id": "m46511",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 185,
+      "title": "The Stomach",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46517/index.cnxml",
+      "level": 3,
+      "section_id": "m46517",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 186,
+      "title": "The Small and Large Intestines",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml",
+      "level": 3,
+      "section_id": "m46512",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 187,
+      "title": "Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46496/index.cnxml",
+      "level": 3,
+      "section_id": "m46496",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 188,
+      "title": "Chemical Digestion and Absorption: A Closer Look",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46501/index.cnxml",
+      "level": 3,
+      "section_id": "m46501",
+      "parent_position": 180
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 189,
+      "title": "Metabolism and Nutrition",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0189",
+      "parent_position": 170
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 190,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46458/index.cnxml",
+      "level": 3,
+      "section_id": "m46458",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 191,
+      "title": "Overview of Metabolic Reactions",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46489/index.cnxml",
+      "level": 3,
+      "section_id": "m46489",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 192,
+      "title": "Carbohydrate Metabolism",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46451/index.cnxml",
+      "level": 3,
+      "section_id": "m46451",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 193,
+      "title": "Lipid Metabolism",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46462/index.cnxml",
+      "level": 3,
+      "section_id": "m46462",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 194,
+      "title": "Protein Metabolism",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46493/index.cnxml",
+      "level": 3,
+      "section_id": "m46493",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 195,
+      "title": "Metabolic States of the Body",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46466/index.cnxml",
+      "level": 3,
+      "section_id": "m46466",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 196,
+      "title": "Energy and Heat Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46456/index.cnxml",
+      "level": 3,
+      "section_id": "m46456",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 197,
+      "title": "Nutrition and Diet",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46467/index.cnxml",
+      "level": 3,
+      "section_id": "m46467",
+      "parent_position": 189
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 198,
+      "title": "The Urinary System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0198",
+      "parent_position": 170
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 199,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46430/index.cnxml",
+      "level": 3,
+      "section_id": "m46430",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 200,
+      "title": "Physical Characteristics of Urine",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46432/index.cnxml",
+      "level": 3,
+      "section_id": "m46432",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 201,
+      "title": "Gross Anatomy of Urine Transport",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46427/index.cnxml",
+      "level": 3,
+      "section_id": "m46427",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 202,
+      "title": "Gross Anatomy of the Kidney",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46429/index.cnxml",
+      "level": 3,
+      "section_id": "m46429",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 203,
+      "title": "Microscopic Anatomy of the Kidney",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml",
+      "level": 3,
+      "section_id": "m46431",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 204,
+      "title": "Physiology of Urine Formation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46433/index.cnxml",
+      "level": 3,
+      "section_id": "m46433",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 205,
+      "title": "Tubular Reabsorption",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46443/index.cnxml",
+      "level": 3,
+      "section_id": "m46443",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 206,
+      "title": "Regulation of Renal Blood Flow",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46435/index.cnxml",
+      "level": 3,
+      "section_id": "m46435",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 207,
+      "title": "Endocrine Regulation of Kidney Function",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46424/index.cnxml",
+      "level": 3,
+      "section_id": "m46424",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 208,
+      "title": "Regulation of Fluid Volume and Composition",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46434/index.cnxml",
+      "level": 3,
+      "section_id": "m46434",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 209,
+      "title": "The Urinary System and Homeostasis",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46446/index.cnxml",
+      "level": 3,
+      "section_id": "m46446",
+      "parent_position": 198
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 210,
+      "title": "Fluid, Electrolyte, and Acid-Base Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0210",
+      "parent_position": 170
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 211,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46415/index.cnxml",
+      "level": 3,
+      "section_id": "m46415",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 212,
+      "title": "Body Fluids and Fluid Compartments",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46411/index.cnxml",
+      "level": 3,
+      "section_id": "m46411",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 213,
+      "title": "Water Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46416/index.cnxml",
+      "level": 3,
+      "section_id": "m46416",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 214,
+      "title": "Electrolyte Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46414/index.cnxml",
+      "level": 3,
+      "section_id": "m46414",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 215,
+      "title": "Acid-Base Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46409/index.cnxml",
+      "level": 3,
+      "section_id": "m46409",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 216,
+      "title": "Disorders of Acid-Base Balance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46413/index.cnxml",
+      "level": 3,
+      "section_id": "m46413",
+      "parent_position": 210
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 217,
+      "title": "Human Development and the Continuity of Life",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 1,
+      "section_id": "group-0217",
+      "parent_position": null
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 218,
+      "title": "The Reproductive System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0218",
+      "parent_position": 217
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 219,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46385/index.cnxml",
+      "level": 3,
+      "section_id": "m46385",
+      "parent_position": 218
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 220,
+      "title": "Anatomy and Physiology of the Testicular Reproductive System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46400/index.cnxml",
+      "level": 3,
+      "section_id": "m46400",
+      "parent_position": 218
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 221,
+      "title": "Anatomy and Physiology of the Ovarian Reproductive System",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46392/index.cnxml",
+      "level": 3,
+      "section_id": "m46392",
+      "parent_position": 218
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 222,
+      "title": "Development of the Male and Female Reproductive Systems",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46408/index.cnxml",
+      "level": 3,
+      "section_id": "m46408",
+      "parent_position": 218
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 223,
+      "title": "Development and Inheritance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "level": 2,
+      "section_id": "group-0223",
+      "parent_position": 217
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 224,
+      "title": "Introduction",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46339/index.cnxml",
+      "level": 3,
+      "section_id": "m46339",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 225,
+      "title": "Fertilization",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46308/index.cnxml",
+      "level": 3,
+      "section_id": "m46308",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 226,
+      "title": "Embryonic Development",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46319/index.cnxml",
+      "level": 3,
+      "section_id": "m46319",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 227,
+      "title": "Fetal Development",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46316/index.cnxml",
+      "level": 3,
+      "section_id": "m46316",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 228,
+      "title": "Changes During Pregnancy, Labor, and Birth",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46353/index.cnxml",
+      "level": 3,
+      "section_id": "m46353",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 229,
+      "title": "Adjustments of the Infant at Birth and Postnatal Stages",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46335/index.cnxml",
+      "level": 3,
+      "section_id": "m46335",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 230,
+      "title": "Lactation",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46325/index.cnxml",
+      "level": 3,
+      "section_id": "m46325",
+      "parent_position": 223
+    },
+    {
+      "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+      "position": 231,
+      "title": "Patterns of Inheritance",
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46311/index.cnxml",
+      "level": 3,
+      "section_id": "m46311",
+      "parent_position": 223
+    }
+  ],
+  "section_paths": [
+    {
+      "id": "m46844",
+      "title": "Preface",
+      "path": [
+        "Preface"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46844/index.cnxml",
+      "text_characters": 20735
+    },
+    {
+      "id": "group-0001",
+      "title": "Levels of Organization",
+      "path": [
+        "Levels of Organization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 22
+    },
+    {
+      "id": "group-0002",
+      "title": "An Introduction to the Human Body",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 33
+    },
+    {
+      "id": "m45981",
+      "title": "Introduction",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45981/index.cnxml",
+      "text_characters": 2454
+    },
+    {
+      "id": "m45983",
+      "title": "Overview of Anatomy and Physiology",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Overview of Anatomy and Physiology"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45983/index.cnxml",
+      "text_characters": 9391
+    },
+    {
+      "id": "m45985",
+      "title": "Structural Organization of the Human Body",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Structural Organization of the Human Body"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45985/index.cnxml",
+      "text_characters": 10952
+    },
+    {
+      "id": "m45986",
+      "title": "Functions of Human Life",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Functions of Human Life"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45986/index.cnxml",
+      "text_characters": 10212
+    },
+    {
+      "id": "m45988",
+      "title": "Requirements for Human Life",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Requirements for Human Life"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45988/index.cnxml",
+      "text_characters": 15673
+    },
+    {
+      "id": "m45989",
+      "title": "Homeostasis",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Homeostasis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45989/index.cnxml",
+      "text_characters": 13597
+    },
+    {
+      "id": "m45990",
+      "title": "Anatomical Terminology",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Anatomical Terminology"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45990/index.cnxml",
+      "text_characters": 28670
+    },
+    {
+      "id": "m45991",
+      "title": "Medical Imaging",
+      "path": [
+        "Levels of Organization",
+        "An Introduction to the Human Body",
+        "Medical Imaging"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45991/index.cnxml",
+      "text_characters": 15285
+    },
+    {
+      "id": "group-0011",
+      "title": "The Chemical Level of Organization",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 34
+    },
+    {
+      "id": "m45996",
+      "title": "Introduction",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45996/index.cnxml",
+      "text_characters": 2371
+    },
+    {
+      "id": "m45998",
+      "title": "Elements and Atoms: The Building Blocks of Matter",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Elements and Atoms: The Building Blocks of Matter"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m45998/index.cnxml",
+      "text_characters": 25108
+    },
+    {
+      "id": "m46000",
+      "title": "Chemical Bonds",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Chemical Bonds"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46000/index.cnxml",
+      "text_characters": 18451
+    },
+    {
+      "id": "m46004",
+      "title": "Chemical Reactions",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Chemical Reactions"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46004/index.cnxml",
+      "text_characters": 17927
+    },
+    {
+      "id": "m46006",
+      "title": "Inorganic Compounds Essential to Human Functioning",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Inorganic Compounds Essential to Human Functioning"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46006/index.cnxml",
+      "text_characters": 22827
+    },
+    {
+      "id": "m46008",
+      "title": "Organic Compounds Essential to Human Functioning",
+      "path": [
+        "Levels of Organization",
+        "The Chemical Level of Organization",
+        "Organic Compounds Essential to Human Functioning"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46008/index.cnxml",
+      "text_characters": 42231
+    },
+    {
+      "id": "group-0018",
+      "title": "The Cellular Level of Organization",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 34
+    },
+    {
+      "id": "m46016",
+      "title": "Introduction",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46016/index.cnxml",
+      "text_characters": 4595
+    },
+    {
+      "id": "m46021",
+      "title": "The Cell Membrane",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "The Cell Membrane"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46021/index.cnxml",
+      "text_characters": 39239
+    },
+    {
+      "id": "m46023",
+      "title": "The Cytoplasm and Cellular Organelles",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "The Cytoplasm and Cellular Organelles"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46023/index.cnxml",
+      "text_characters": 29881
+    },
+    {
+      "id": "m46073",
+      "title": "The Nucleus and DNA Replication",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "The Nucleus and DNA Replication"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46073/index.cnxml",
+      "text_characters": 17062
+    },
+    {
+      "id": "m46032",
+      "title": "Protein Synthesis",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "Protein Synthesis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46032/index.cnxml",
+      "text_characters": 19491
+    },
+    {
+      "id": "m46034",
+      "title": "Cell Growth and Division",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "Cell Growth and Division"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46034/index.cnxml",
+      "text_characters": 23553
+    },
+    {
+      "id": "m46036",
+      "title": "Cellular Differentiation",
+      "path": [
+        "Levels of Organization",
+        "The Cellular Level of Organization",
+        "Cellular Differentiation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46036/index.cnxml",
+      "text_characters": 12509
+    },
+    {
+      "id": "group-0026",
+      "title": "The Tissue Level of Organization",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 32
+    },
+    {
+      "id": "m46045",
+      "title": "Introduction",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46045/index.cnxml",
+      "text_characters": 2435
+    },
+    {
+      "id": "m46046",
+      "title": "Types of Tissues",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Types of Tissues"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46046/index.cnxml",
+      "text_characters": 18780
+    },
+    {
+      "id": "m46048",
+      "title": "Epithelial Tissue",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Epithelial Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46048/index.cnxml",
+      "text_characters": 39224
+    },
+    {
+      "id": "m46049",
+      "title": "Connective Tissue Supports and Protects",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Connective Tissue Supports and Protects"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46049/index.cnxml",
+      "text_characters": 35953
+    },
+    {
+      "id": "m46055",
+      "title": "Muscle Tissue and Motion",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Muscle Tissue and Motion"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46055/index.cnxml",
+      "text_characters": 8575
+    },
+    {
+      "id": "m46057",
+      "title": "Nervous Tissue Mediates Perception and Response",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Nervous Tissue Mediates Perception and Response"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46057/index.cnxml",
+      "text_characters": 9375
+    },
+    {
+      "id": "m46058",
+      "title": "Tissue Injury and Aging",
+      "path": [
+        "Levels of Organization",
+        "The Tissue Level of Organization",
+        "Tissue Injury and Aging"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46058/index.cnxml",
+      "text_characters": 17562
+    },
+    {
+      "id": "group-0034",
+      "title": "Support and Movement",
+      "path": [
+        "Support and Movement"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 20
+    },
+    {
+      "id": "group-0035",
+      "title": "The Integumentary System",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 24
+    },
+    {
+      "id": "m46059",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46059/index.cnxml",
+      "text_characters": 1894
+    },
+    {
+      "id": "m46060",
+      "title": "Layers of the Skin",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System",
+        "Layers of the Skin"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46060/index.cnxml",
+      "text_characters": 35752
+    },
+    {
+      "id": "m46062",
+      "title": "Accessory Structures of the Skin",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System",
+        "Accessory Structures of the Skin"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46062/index.cnxml",
+      "text_characters": 20007
+    },
+    {
+      "id": "m46064",
+      "title": "Functions of the Integumentary System",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System",
+        "Functions of the Integumentary System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46064/index.cnxml",
+      "text_characters": 15754
+    },
+    {
+      "id": "m46066",
+      "title": "Diseases, Disorders, and Injuries of the Integumentary System",
+      "path": [
+        "Support and Movement",
+        "The Integumentary System",
+        "Diseases, Disorders, and Injuries of the Integumentary System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46066/index.cnxml",
+      "text_characters": 26022
+    },
+    {
+      "id": "group-0041",
+      "title": "Bone Tissue and the Skeletal System",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 35
+    },
+    {
+      "id": "m46290",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46290/index.cnxml",
+      "text_characters": 1624
+    },
+    {
+      "id": "m46341",
+      "title": "The Functions of the Skeletal System",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "The Functions of the Skeletal System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46341/index.cnxml",
+      "text_characters": 10511
+    },
+    {
+      "id": "m46282",
+      "title": "Bone Classification",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Bone Classification"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46282/index.cnxml",
+      "text_characters": 8097
+    },
+    {
+      "id": "m46281",
+      "title": "Bone Structure",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Bone Structure"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46281/index.cnxml",
+      "text_characters": 35203
+    },
+    {
+      "id": "m46301",
+      "title": "Bone Formation and Development",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Bone Formation and Development"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46301/index.cnxml",
+      "text_characters": 23971
+    },
+    {
+      "id": "m46342",
+      "title": "Fractures: Bone Repair",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Fractures: Bone Repair"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46342/index.cnxml",
+      "text_characters": 10309
+    },
+    {
+      "id": "m46305",
+      "title": "Exercise, Nutrition, Hormones, and Bone Tissue",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Exercise, Nutrition, Hormones, and Bone Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46305/index.cnxml",
+      "text_characters": 18390
+    },
+    {
+      "id": "m46295",
+      "title": "Calcium Homeostasis: Interactions of the Skeletal System and Other Organ Systems",
+      "path": [
+        "Support and Movement",
+        "Bone Tissue and the Skeletal System",
+        "Calcium Homeostasis: Interactions of the Skeletal System and Other Organ Systems"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46295/index.cnxml",
+      "text_characters": 7234
+    },
+    {
+      "id": "group-0050",
+      "title": "Axial Skeleton",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 14
+    },
+    {
+      "id": "m46347",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46347/index.cnxml",
+      "text_characters": 3234
+    },
+    {
+      "id": "m46344",
+      "title": "Divisions of the Skeletal System",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "Divisions of the Skeletal System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46344/index.cnxml",
+      "text_characters": 7224
+    },
+    {
+      "id": "m46355",
+      "title": "The Skull",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "The Skull"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46355/index.cnxml",
+      "text_characters": 70470
+    },
+    {
+      "id": "m46352",
+      "title": "The Vertebral Column",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "The Vertebral Column"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46352/index.cnxml",
+      "text_characters": 47383
+    },
+    {
+      "id": "m46350",
+      "title": "The Thoracic Cage",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "The Thoracic Cage"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46350/index.cnxml",
+      "text_characters": 11542
+    },
+    {
+      "id": "m46348",
+      "title": "Embryonic Development of the Axial Skeleton",
+      "path": [
+        "Support and Movement",
+        "Axial Skeleton",
+        "Embryonic Development of the Axial Skeleton"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46348/index.cnxml",
+      "text_characters": 14433
+    },
+    {
+      "id": "group-0057",
+      "title": "The Appendicular Skeleton",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 25
+    },
+    {
+      "id": "m46370",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46370/index.cnxml",
+      "text_characters": 2123
+    },
+    {
+      "id": "m46374",
+      "title": "The Pectoral Girdle",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "The Pectoral Girdle"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46374/index.cnxml",
+      "text_characters": 17303
+    },
+    {
+      "id": "m46368",
+      "title": "Bones of the Upper Limb",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "Bones of the Upper Limb"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46368/index.cnxml",
+      "text_characters": 36312
+    },
+    {
+      "id": "m46375",
+      "title": "The Pelvic Girdle and Pelvis",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "The Pelvic Girdle and Pelvis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46375/index.cnxml",
+      "text_characters": 28348
+    },
+    {
+      "id": "m46364",
+      "title": "Bones of the Lower Limb",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "Bones of the Lower Limb"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46364/index.cnxml",
+      "text_characters": 37914
+    },
+    {
+      "id": "m46376",
+      "title": "Development of the Appendicular Skeleton",
+      "path": [
+        "Support and Movement",
+        "The Appendicular Skeleton",
+        "Development of the Appendicular Skeleton"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46376/index.cnxml",
+      "text_characters": 15498
+    },
+    {
+      "id": "group-0064",
+      "title": "Joints",
+      "path": [
+        "Support and Movement",
+        "Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 6
+    },
+    {
+      "id": "m46402",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46402/index.cnxml",
+      "text_characters": 3329
+    },
+    {
+      "id": "m46383",
+      "title": "Classification of Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Classification of Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46383/index.cnxml",
+      "text_characters": 13110
+    },
+    {
+      "id": "m46403",
+      "title": "Fibrous Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Fibrous Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46403/index.cnxml",
+      "text_characters": 11293
+    },
+    {
+      "id": "m46381",
+      "title": "Cartilaginous Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Cartilaginous Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46381/index.cnxml",
+      "text_characters": 10303
+    },
+    {
+      "id": "m46394",
+      "title": "Synovial Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Synovial Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46394/index.cnxml",
+      "text_characters": 35860
+    },
+    {
+      "id": "m46398",
+      "title": "Types of Body Movements",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Types of Body Movements"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46398/index.cnxml",
+      "text_characters": 24087
+    },
+    {
+      "id": "m46377",
+      "title": "Anatomy of Selected Synovial Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Anatomy of Selected Synovial Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46377/index.cnxml",
+      "text_characters": 57239
+    },
+    {
+      "id": "m46388",
+      "title": "Development of Joints",
+      "path": [
+        "Support and Movement",
+        "Joints",
+        "Development of Joints"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46388/index.cnxml",
+      "text_characters": 6318
+    },
+    {
+      "id": "group-0073",
+      "title": "Muscle Tissue",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 13
+    },
+    {
+      "id": "m46450",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46450/index.cnxml",
+      "text_characters": 1459
+    },
+    {
+      "id": "m46473",
+      "title": "Overview of Muscle Tissues",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Overview of Muscle Tissues"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46473/index.cnxml",
+      "text_characters": 6109
+    },
+    {
+      "id": "m46476",
+      "title": "Skeletal Muscle",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Skeletal Muscle"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46476/index.cnxml",
+      "text_characters": 23926
+    },
+    {
+      "id": "m46447",
+      "title": "Muscle Fiber Contraction and Relaxation",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Muscle Fiber Contraction and Relaxation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46447/index.cnxml",
+      "text_characters": 24555
+    },
+    {
+      "id": "m46470",
+      "title": "Nervous System Control of Muscle Tension",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Nervous System Control of Muscle Tension"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46470/index.cnxml",
+      "text_characters": 19558
+    },
+    {
+      "id": "m46480",
+      "title": "Types of Muscle Fibers",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Types of Muscle Fibers"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46480/index.cnxml",
+      "text_characters": 7735
+    },
+    {
+      "id": "m46438",
+      "title": "Exercise and Muscle Performance",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Exercise and Muscle Performance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46438/index.cnxml",
+      "text_characters": 13725
+    },
+    {
+      "id": "m46404",
+      "title": "Cardiac Muscle Tissue",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Cardiac Muscle Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46404/index.cnxml",
+      "text_characters": 6597
+    },
+    {
+      "id": "m46478",
+      "title": "Smooth Muscle",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Smooth Muscle"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46478/index.cnxml",
+      "text_characters": 13121
+    },
+    {
+      "id": "m46407",
+      "title": "Development and Regeneration of Muscle Tissue",
+      "path": [
+        "Support and Movement",
+        "Muscle Tissue",
+        "Development and Regeneration of Muscle Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46407/index.cnxml",
+      "text_characters": 7427
+    },
+    {
+      "id": "group-0084",
+      "title": "The Muscular System",
+      "path": [
+        "Support and Movement",
+        "The Muscular System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 19
+    },
+    {
+      "id": "m46492",
+      "title": "Introduction",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46492/index.cnxml",
+      "text_characters": 1949
+    },
+    {
+      "id": "m46487",
+      "title": "Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46487/index.cnxml",
+      "text_characters": 17841
+    },
+    {
+      "id": "m46498",
+      "title": "Naming Skeletal Muscles",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Naming Skeletal Muscles"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46498/index.cnxml",
+      "text_characters": 8782
+    },
+    {
+      "id": "m46484",
+      "title": "Axial Muscles of the Head, Neck, and Back",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Axial Muscles of the Head, Neck, and Back"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46484/index.cnxml",
+      "text_characters": 32398
+    },
+    {
+      "id": "m46485",
+      "title": "Axial Muscles of the Abdominal Wall, and Thorax",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Axial Muscles of the Abdominal Wall, and Thorax"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46485/index.cnxml",
+      "text_characters": 19285
+    },
+    {
+      "id": "m46495",
+      "title": "Muscles of the Pectoral Girdle and Upper Limbs",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Muscles of the Pectoral Girdle and Upper Limbs"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46495/index.cnxml",
+      "text_characters": 31632
+    },
+    {
+      "id": "m46482",
+      "title": "Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+      "path": [
+        "Support and Movement",
+        "The Muscular System",
+        "Appendicular Muscles of the Pelvic Girdle and Lower Limbs"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46482/index.cnxml",
+      "text_characters": 29823
+    },
+    {
+      "id": "group-0092",
+      "title": "Regulation, Integration, and Control",
+      "path": [
+        "Regulation, Integration, and Control"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 36
+    },
+    {
+      "id": "group-0093",
+      "title": "The Nervous System and Nervous Tissue",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 37
+    },
+    {
+      "id": "m46504",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46504/index.cnxml",
+      "text_characters": 2778
+    },
+    {
+      "id": "m46500",
+      "title": "Basic Structure and Function of the Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "Basic Structure and Function of the Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46500/index.cnxml",
+      "text_characters": 35245
+    },
+    {
+      "id": "m46509",
+      "title": "Nervous Tissue",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "Nervous Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46509/index.cnxml",
+      "text_characters": 33075
+    },
+    {
+      "id": "m46531",
+      "title": "The Function of Nervous Tissue",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "The Function of Nervous Tissue"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46531/index.cnxml",
+      "text_characters": 15409
+    },
+    {
+      "id": "m46526",
+      "title": "The Action Potential",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "The Action Potential"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46526/index.cnxml",
+      "text_characters": 40658
+    },
+    {
+      "id": "m46503",
+      "title": "Communication Between Neurons",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Nervous System and Nervous Tissue",
+        "Communication Between Neurons"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46503/index.cnxml",
+      "text_characters": 34963
+    },
+    {
+      "id": "group-0100",
+      "title": "Anatomy of the Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 29
+    },
+    {
+      "id": "m46528",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46528/index.cnxml",
+      "text_characters": 2373
+    },
+    {
+      "id": "m46535",
+      "title": "The Embryologic Perspective",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System",
+        "The Embryologic Perspective"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46535/index.cnxml",
+      "text_characters": 26161
+    },
+    {
+      "id": "m46533",
+      "title": "The Central Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System",
+        "The Central Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46533/index.cnxml",
+      "text_characters": 53776
+    },
+    {
+      "id": "m46719",
+      "title": "Circulation and the Central Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System",
+        "Circulation and the Central Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46719/index.cnxml",
+      "text_characters": 31681
+    },
+    {
+      "id": "m46553",
+      "title": "The Peripheral Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "Anatomy of the Nervous System",
+        "The Peripheral Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46553/index.cnxml",
+      "text_characters": 33676
+    },
+    {
+      "id": "group-0106",
+      "title": "The Somatic Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Somatic Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 26
+    },
+    {
+      "id": "m46561",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Somatic Nervous System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46561/index.cnxml",
+      "text_characters": 4266
+    },
+    {
+      "id": "m46577",
+      "title": "Sensory Perception",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Somatic Nervous System",
+        "Sensory Perception"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46577/index.cnxml",
+      "text_characters": 83250
+    },
+    {
+      "id": "m46557",
+      "title": "Central Processing",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Somatic Nervous System",
+        "Central Processing"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46557/index.cnxml",
+      "text_characters": 42269
+    },
+    {
+      "id": "m46574",
+      "title": "Motor Responses",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Somatic Nervous System",
+        "Motor Responses"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46574/index.cnxml",
+      "text_characters": 36595
+    },
+    {
+      "id": "group-0111",
+      "title": "The Autonomic Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 28
+    },
+    {
+      "id": "m46590",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46590/index.cnxml",
+      "text_characters": 3634
+    },
+    {
+      "id": "m46582",
+      "title": "Divisions of the Autonomic Nervous System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System",
+        "Divisions of the Autonomic Nervous System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46582/index.cnxml",
+      "text_characters": 39955
+    },
+    {
+      "id": "m46579",
+      "title": "Autonomic Reflexes and Homeostasis",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System",
+        "Autonomic Reflexes and Homeostasis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46579/index.cnxml",
+      "text_characters": 31105
+    },
+    {
+      "id": "m46581",
+      "title": "Central Control",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System",
+        "Central Control"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46581/index.cnxml",
+      "text_characters": 15874
+    },
+    {
+      "id": "m46587",
+      "title": "Drugs that Affect the Autonomic System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Autonomic Nervous System",
+        "Drugs that Affect the Autonomic System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46587/index.cnxml",
+      "text_characters": 24044
+    },
+    {
+      "id": "group-0117",
+      "title": "The Neurological Exam",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 21
+    },
+    {
+      "id": "m46593",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46593/index.cnxml",
+      "text_characters": 4750
+    },
+    {
+      "id": "m46594",
+      "title": "Overview of the Neurological Exam",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "Overview of the Neurological Exam"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46594/index.cnxml",
+      "text_characters": 19603
+    },
+    {
+      "id": "m46650",
+      "title": "The Mental Status Exam",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "The Mental Status Exam"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46650/index.cnxml",
+      "text_characters": 34457
+    },
+    {
+      "id": "m46607",
+      "title": "The Cranial Nerve Exam",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "The Cranial Nerve Exam"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46607/index.cnxml",
+      "text_characters": 38922
+    },
+    {
+      "id": "m46640",
+      "title": "The Sensory and Motor Exams",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "The Sensory and Motor Exams"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46640/index.cnxml",
+      "text_characters": 26369
+    },
+    {
+      "id": "m46604",
+      "title": "The Coordination and Gait Exams",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Neurological Exam",
+        "The Coordination and Gait Exams"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46604/index.cnxml",
+      "text_characters": 21575
+    },
+    {
+      "id": "group-0124",
+      "title": "The Endocrine System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 20
+    },
+    {
+      "id": "m46682",
+      "title": "Introduction",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46682/index.cnxml",
+      "text_characters": 1846
+    },
+    {
+      "id": "m46656",
+      "title": "An Overview of the Endocrine System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "An Overview of the Endocrine System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46656/index.cnxml",
+      "text_characters": 14248
+    },
+    {
+      "id": "m46667",
+      "title": "Hormones",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "Hormones"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46667/index.cnxml",
+      "text_characters": 32235
+    },
+    {
+      "id": "m46699",
+      "title": "The Pituitary Gland and Hypothalamus",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Pituitary Gland and Hypothalamus"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46699/index.cnxml",
+      "text_characters": 29969
+    },
+    {
+      "id": "m46700",
+      "title": "The Thyroid Gland",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Thyroid Gland"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46700/index.cnxml",
+      "text_characters": 17966
+    },
+    {
+      "id": "m46687",
+      "title": "The Parathyroid Glands",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Parathyroid Glands"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46687/index.cnxml",
+      "text_characters": 9104
+    },
+    {
+      "id": "m46684",
+      "title": "The Adrenal Glands",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Adrenal Glands"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46684/index.cnxml",
+      "text_characters": 19947
+    },
+    {
+      "id": "m46693",
+      "title": "The Pineal Gland",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Pineal Gland"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46693/index.cnxml",
+      "text_characters": 4900
+    },
+    {
+      "id": "m46670",
+      "title": "Gonadal and Placental Hormones",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "Gonadal and Placental Hormones"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46670/index.cnxml",
+      "text_characters": 7640
+    },
+    {
+      "id": "m46685",
+      "title": "The Endocrine Pancreas",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "The Endocrine Pancreas"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46685/index.cnxml",
+      "text_characters": 18958
+    },
+    {
+      "id": "m46680",
+      "title": "Organs with Secondary Endocrine Functions",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "Organs with Secondary Endocrine Functions"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46680/index.cnxml",
+      "text_characters": 11398
+    },
+    {
+      "id": "m46658",
+      "title": "Development and Aging of the Endocrine System",
+      "path": [
+        "Regulation, Integration, and Control",
+        "The Endocrine System",
+        "Development and Aging of the Endocrine System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46658/index.cnxml",
+      "text_characters": 5297
+    },
+    {
+      "id": "group-0137",
+      "title": "Fluids and Transport",
+      "path": [
+        "Fluids and Transport"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 20
+    },
+    {
+      "id": "group-0138",
+      "title": "The Cardiovascular System: Blood",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 32
+    },
+    {
+      "id": "m46703",
+      "title": "Introduction",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46703/index.cnxml",
+      "text_characters": 1487
+    },
+    {
+      "id": "m46710",
+      "title": "An Overview of Blood",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "An Overview of Blood"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46710/index.cnxml",
+      "text_characters": 18771
+    },
+    {
+      "id": "m46691",
+      "title": "Production of the Formed Elements",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Production of the Formed Elements"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46691/index.cnxml",
+      "text_characters": 16574
+    },
+    {
+      "id": "m46707",
+      "title": "Erythrocytes",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Erythrocytes"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46707/index.cnxml",
+      "text_characters": 27804
+    },
+    {
+      "id": "m46701",
+      "title": "Leukocytes and Platelets",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Leukocytes and Platelets"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46701/index.cnxml",
+      "text_characters": 25936
+    },
+    {
+      "id": "m46705",
+      "title": "Hemostasis",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Hemostasis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46705/index.cnxml",
+      "text_characters": 22865
+    },
+    {
+      "id": "m46708",
+      "title": "Blood Typing",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood",
+        "Blood Typing"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46708/index.cnxml",
+      "text_characters": 19059
+    },
+    {
+      "id": "group-0146",
+      "title": "The Cardiovascular System: The Heart",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 36
+    },
+    {
+      "id": "m46679",
+      "title": "Introduction",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46679/index.cnxml",
+      "text_characters": 1909
+    },
+    {
+      "id": "m46676",
+      "title": "Heart Anatomy",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Heart Anatomy"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46676/index.cnxml",
+      "text_characters": 76349
+    },
+    {
+      "id": "m46664",
+      "title": "Cardiac Muscle and Electrical Activity",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Cardiac Muscle and Electrical Activity"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46664/index.cnxml",
+      "text_characters": 41211
+    },
+    {
+      "id": "m46661",
+      "title": "Cardiac Cycle",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Cardiac Cycle"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46661/index.cnxml",
+      "text_characters": 17122
+    },
+    {
+      "id": "m46672",
+      "title": "Cardiac Physiology",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Cardiac Physiology"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46672/index.cnxml",
+      "text_characters": 43055
+    },
+    {
+      "id": "m46673",
+      "title": "Development of the Heart",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: The Heart",
+        "Development of the Heart"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46673/index.cnxml",
+      "text_characters": 8292
+    },
+    {
+      "id": "group-0153",
+      "title": "The Cardiovascular System: Blood Vessels and Circulation",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 56
+    },
+    {
+      "id": "m46600",
+      "title": "Introduction",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46600/index.cnxml",
+      "text_characters": 1729
+    },
+    {
+      "id": "m46597",
+      "title": "Structure and Function of Blood Vessels",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Structure and Function of Blood Vessels"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46597/index.cnxml",
+      "text_characters": 41295
+    },
+    {
+      "id": "m46635",
+      "title": "Blood Flow, Blood Pressure, and Resistance",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Blood Flow, Blood Pressure, and Resistance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46635/index.cnxml",
+      "text_characters": 39033
+    },
+    {
+      "id": "m46586",
+      "title": "Capillary Exchange",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Capillary Exchange"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46586/index.cnxml",
+      "text_characters": 13361
+    },
+    {
+      "id": "m46603",
+      "title": "Homeostatic Regulation of the Vascular System",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Homeostatic Regulation of the Vascular System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46603/index.cnxml",
+      "text_characters": 36273
+    },
+    {
+      "id": "m46646",
+      "title": "Circulatory Pathways",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Circulatory Pathways"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46646/index.cnxml",
+      "text_characters": 95818
+    },
+    {
+      "id": "m46610",
+      "title": "Development of Blood Vessels and Fetal Circulation",
+      "path": [
+        "Fluids and Transport",
+        "The Cardiovascular System: Blood Vessels and Circulation",
+        "Development of Blood Vessels and Fetal Circulation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46610/index.cnxml",
+      "text_characters": 9980
+    },
+    {
+      "id": "group-0161",
+      "title": "The Lymphatic and Immune System",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 31
+    },
+    {
+      "id": "m46573",
+      "title": "Introduction",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46573/index.cnxml",
+      "text_characters": 3259
+    },
+    {
+      "id": "m46563",
+      "title": "Anatomy of the Lymphatic and Immune Systems",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "Anatomy of the Lymphatic and Immune Systems"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46563/index.cnxml",
+      "text_characters": 35813
+    },
+    {
+      "id": "m46571",
+      "title": "Barrier Defenses and the Innate Immune Response",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "Barrier Defenses and the Innate Immune Response"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46571/index.cnxml",
+      "text_characters": 25220
+    },
+    {
+      "id": "m46560",
+      "title": "The Adaptive Immune Response: T lymphocytes and Their Functional Types",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "The Adaptive Immune Response: T lymphocytes and Their Functional Types"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46560/index.cnxml",
+      "text_characters": 27970
+    },
+    {
+      "id": "m46558",
+      "title": "The Adaptive Immune Response: B-lymphocytes and Antibodies",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "The Adaptive Immune Response: B-lymphocytes and Antibodies"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46558/index.cnxml",
+      "text_characters": 21128
+    },
+    {
+      "id": "m46569",
+      "title": "The Immune Response against Pathogens",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "The Immune Response against Pathogens"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46569/index.cnxml",
+      "text_characters": 14692
+    },
+    {
+      "id": "m46566",
+      "title": "Diseases Associated with Depressed or Overactive Immune Responses",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "Diseases Associated with Depressed or Overactive Immune Responses"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46566/index.cnxml",
+      "text_characters": 19158
+    },
+    {
+      "id": "m46583",
+      "title": "Transplantation and Cancer Immunology",
+      "path": [
+        "Fluids and Transport",
+        "The Lymphatic and Immune System",
+        "Transplantation and Cancer Immunology"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46583/index.cnxml",
+      "text_characters": 17814
+    },
+    {
+      "id": "group-0170",
+      "title": "Energy, Maintenance, and Environmental Exchange",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 47
+    },
+    {
+      "id": "group-0171",
+      "title": "The Respiratory System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 22
+    },
+    {
+      "id": "m46523",
+      "title": "Introduction",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46523/index.cnxml",
+      "text_characters": 2288
+    },
+    {
+      "id": "m46548",
+      "title": "Organs and Structures of the Respiratory System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Organs and Structures of the Respiratory System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46548/index.cnxml",
+      "text_characters": 34606
+    },
+    {
+      "id": "m46551",
+      "title": "The Lungs",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "The Lungs"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46551/index.cnxml",
+      "text_characters": 12808
+    },
+    {
+      "id": "m46549",
+      "title": "The Process of Breathing",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "The Process of Breathing"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46549/index.cnxml",
+      "text_characters": 40815
+    },
+    {
+      "id": "m46521",
+      "title": "Gas Exchange",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Gas Exchange"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46521/index.cnxml",
+      "text_characters": 21370
+    },
+    {
+      "id": "m46545",
+      "title": "Transport of Gases",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Transport of Gases"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46545/index.cnxml",
+      "text_characters": 22827
+    },
+    {
+      "id": "m46524",
+      "title": "Modifications in Respiratory Functions",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Modifications in Respiratory Functions"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46524/index.cnxml",
+      "text_characters": 12529
+    },
+    {
+      "id": "m46518",
+      "title": "Embryonic Development of the Respiratory System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Respiratory System",
+        "Embryonic Development of the Respiratory System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46518/index.cnxml",
+      "text_characters": 12249
+    },
+    {
+      "id": "group-0180",
+      "title": "The Digestive System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 20
+    },
+    {
+      "id": "m46505",
+      "title": "Introduction",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46505/index.cnxml",
+      "text_characters": 1767
+    },
+    {
+      "id": "m46506",
+      "title": "Overview of the Digestive System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "Overview of the Digestive System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46506/index.cnxml",
+      "text_characters": 21205
+    },
+    {
+      "id": "m46502",
+      "title": "Digestive System Processes and Regulation",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "Digestive System Processes and Regulation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46502/index.cnxml",
+      "text_characters": 15769
+    },
+    {
+      "id": "m46511",
+      "title": "The Mouth, Pharynx, and Esophagus",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "The Mouth, Pharynx, and Esophagus"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46511/index.cnxml",
+      "text_characters": 35800
+    },
+    {
+      "id": "m46517",
+      "title": "The Stomach",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "The Stomach"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46517/index.cnxml",
+      "text_characters": 23277
+    },
+    {
+      "id": "m46512",
+      "title": "The Small and Large Intestines",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "The Small and Large Intestines"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46512/index.cnxml",
+      "text_characters": 43042
+    },
+    {
+      "id": "m46496",
+      "title": "Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46496/index.cnxml",
+      "text_characters": 19494
+    },
+    {
+      "id": "m46501",
+      "title": "Chemical Digestion and Absorption: A Closer Look",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Digestive System",
+        "Chemical Digestion and Absorption: A Closer Look"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46501/index.cnxml",
+      "text_characters": 26179
+    },
+    {
+      "id": "group-0189",
+      "title": "Metabolism and Nutrition",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 24
+    },
+    {
+      "id": "m46458",
+      "title": "Introduction",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46458/index.cnxml",
+      "text_characters": 2955
+    },
+    {
+      "id": "m46489",
+      "title": "Overview of Metabolic Reactions",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Overview of Metabolic Reactions"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46489/index.cnxml",
+      "text_characters": 17387
+    },
+    {
+      "id": "m46451",
+      "title": "Carbohydrate Metabolism",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Carbohydrate Metabolism"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46451/index.cnxml",
+      "text_characters": 30585
+    },
+    {
+      "id": "m46462",
+      "title": "Lipid Metabolism",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Lipid Metabolism"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46462/index.cnxml",
+      "text_characters": 15210
+    },
+    {
+      "id": "m46493",
+      "title": "Protein Metabolism",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Protein Metabolism"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46493/index.cnxml",
+      "text_characters": 13420
+    },
+    {
+      "id": "m46466",
+      "title": "Metabolic States of the Body",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Metabolic States of the Body"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46466/index.cnxml",
+      "text_characters": 12161
+    },
+    {
+      "id": "m46456",
+      "title": "Energy and Heat Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Energy and Heat Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46456/index.cnxml",
+      "text_characters": 8560
+    },
+    {
+      "id": "m46467",
+      "title": "Nutrition and Diet",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Metabolism and Nutrition",
+        "Nutrition and Diet"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46467/index.cnxml",
+      "text_characters": 19709
+    },
+    {
+      "id": "group-0198",
+      "title": "The Urinary System",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 18
+    },
+    {
+      "id": "m46430",
+      "title": "Introduction",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46430/index.cnxml",
+      "text_characters": 3177
+    },
+    {
+      "id": "m46432",
+      "title": "Physical Characteristics of Urine",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Physical Characteristics of Urine"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46432/index.cnxml",
+      "text_characters": 11419
+    },
+    {
+      "id": "m46427",
+      "title": "Gross Anatomy of Urine Transport",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Gross Anatomy of Urine Transport"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46427/index.cnxml",
+      "text_characters": 14722
+    },
+    {
+      "id": "m46429",
+      "title": "Gross Anatomy of the Kidney",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Gross Anatomy of the Kidney"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46429/index.cnxml",
+      "text_characters": 12838
+    },
+    {
+      "id": "m46431",
+      "title": "Microscopic Anatomy of the Kidney",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Microscopic Anatomy of the Kidney"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46431/index.cnxml",
+      "text_characters": 17507
+    },
+    {
+      "id": "m46433",
+      "title": "Physiology of Urine Formation",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Physiology of Urine Formation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46433/index.cnxml",
+      "text_characters": 12410
+    },
+    {
+      "id": "m46443",
+      "title": "Tubular Reabsorption",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Tubular Reabsorption"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46443/index.cnxml",
+      "text_characters": 34694
+    },
+    {
+      "id": "m46435",
+      "title": "Regulation of Renal Blood Flow",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Regulation of Renal Blood Flow"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46435/index.cnxml",
+      "text_characters": 7522
+    },
+    {
+      "id": "m46424",
+      "title": "Endocrine Regulation of Kidney Function",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Endocrine Regulation of Kidney Function"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46424/index.cnxml",
+      "text_characters": 10616
+    },
+    {
+      "id": "m46434",
+      "title": "Regulation of Fluid Volume and Composition",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "Regulation of Fluid Volume and Composition"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46434/index.cnxml",
+      "text_characters": 12949
+    },
+    {
+      "id": "m46446",
+      "title": "The Urinary System and Homeostasis",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "The Urinary System",
+        "The Urinary System and Homeostasis"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46446/index.cnxml",
+      "text_characters": 10686
+    },
+    {
+      "id": "group-0210",
+      "title": "Fluid, Electrolyte, and Acid-Base Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 41
+    },
+    {
+      "id": "m46415",
+      "title": "Introduction",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46415/index.cnxml",
+      "text_characters": 1850
+    },
+    {
+      "id": "m46411",
+      "title": "Body Fluids and Fluid Compartments",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Body Fluids and Fluid Compartments"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46411/index.cnxml",
+      "text_characters": 25197
+    },
+    {
+      "id": "m46416",
+      "title": "Water Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Water Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46416/index.cnxml",
+      "text_characters": 12979
+    },
+    {
+      "id": "m46414",
+      "title": "Electrolyte Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Electrolyte Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46414/index.cnxml",
+      "text_characters": 21829
+    },
+    {
+      "id": "m46409",
+      "title": "Acid-Base Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Acid-Base Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46409/index.cnxml",
+      "text_characters": 20387
+    },
+    {
+      "id": "m46413",
+      "title": "Disorders of Acid-Base Balance",
+      "path": [
+        "Energy, Maintenance, and Environmental Exchange",
+        "Fluid, Electrolyte, and Acid-Base Balance",
+        "Disorders of Acid-Base Balance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46413/index.cnxml",
+      "text_characters": 15600
+    },
+    {
+      "id": "group-0217",
+      "title": "Human Development and the Continuity of Life",
+      "path": [
+        "Human Development and the Continuity of Life"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 44
+    },
+    {
+      "id": "group-0218",
+      "title": "The Reproductive System",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "The Reproductive System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 23
+    },
+    {
+      "id": "m46385",
+      "title": "Introduction",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "The Reproductive System",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46385/index.cnxml",
+      "text_characters": 1772
+    },
+    {
+      "id": "m46400",
+      "title": "Anatomy and Physiology of the Testicular Reproductive System",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "The Reproductive System",
+        "Anatomy and Physiology of the Testicular Reproductive System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46400/index.cnxml",
+      "text_characters": 42374
+    },
+    {
+      "id": "m46392",
+      "title": "Anatomy and Physiology of the Ovarian Reproductive System",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "The Reproductive System",
+        "Anatomy and Physiology of the Ovarian Reproductive System"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46392/index.cnxml",
+      "text_characters": 61804
+    },
+    {
+      "id": "m46408",
+      "title": "Development of the Male and Female Reproductive Systems",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "The Reproductive System",
+        "Development of the Male and Female Reproductive Systems"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46408/index.cnxml",
+      "text_characters": 14430
+    },
+    {
+      "id": "group-0223",
+      "title": "Development and Inheritance",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/collections/anatomy-and-physiology-2e.collection.xml",
+      "text_characters": 27
+    },
+    {
+      "id": "m46339",
+      "title": "Introduction",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Introduction"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46339/index.cnxml",
+      "text_characters": 1397
+    },
+    {
+      "id": "m46308",
+      "title": "Fertilization",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Fertilization"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46308/index.cnxml",
+      "text_characters": 18287
+    },
+    {
+      "id": "m46319",
+      "title": "Embryonic Development",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Embryonic Development"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46319/index.cnxml",
+      "text_characters": 35803
+    },
+    {
+      "id": "m46316",
+      "title": "Fetal Development",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Fetal Development"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46316/index.cnxml",
+      "text_characters": 16996
+    },
+    {
+      "id": "m46353",
+      "title": "Changes During Pregnancy, Labor, and Birth",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Changes During Pregnancy, Labor, and Birth"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46353/index.cnxml",
+      "text_characters": 24294
+    },
+    {
+      "id": "m46335",
+      "title": "Adjustments of the Infant at Birth and Postnatal Stages",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Adjustments of the Infant at Birth and Postnatal Stages"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46335/index.cnxml",
+      "text_characters": 11878
+    },
+    {
+      "id": "m46325",
+      "title": "Lactation",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Lactation"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46325/index.cnxml",
+      "text_characters": 12076
+    },
+    {
+      "id": "m46311",
+      "title": "Patterns of Inheritance",
+      "path": [
+        "Human Development and the Continuity of Life",
+        "Development and Inheritance",
+        "Patterns of Inheritance"
+      ],
+      "source_url": "https://raw.githubusercontent.com/openstax/osbooks-anatomy-physiology/5ae32b3f4bc24ed003e91dc38bf47dba80751044/modules/m46311/index.cnxml",
+      "text_characters": 35981
+    }
+  ]
+}

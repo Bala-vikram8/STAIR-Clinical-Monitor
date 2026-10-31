@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-30T12:08:29.228750+00:00",
+  "stage": "B",
+  "stage_complete": false,
+  "python": "3.12.14",
+  "sqlite": "3.53.1",
+  "test_command": ".venv/bin/python -m pytest -q --junitxml=reports/stage-b-tests.xml",
+  "test_counts": {
+    "tests": 48,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "repeatable_initialization_checked": true,
+  "locked_dependency_refresh_checked": "uv sync --frozen --cache-dir .cache/uv --offline",
+  "sqlite_integrity": "ok",
+  "sqlite_reference_check": "ok",
+  "source_status": {
+    "guidelines": [
+      {
+        "slug": "cdc-opioid",
+        "title": "CDC Clinical Practice Guideline for Prescribing Opioids for Pain",
+        "publisher": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm",
+        "snapshot_count": 0,
+        "verification_status": "unverified"
+      },
+      {
+        "slug": "cdc-sti",
+        "title": "CDC STI Treatment Guidelines",
+        "publisher": "Centers for Disease Control and Prevention",
+        "source_url": "https://www.cdc.gov/sti/hcp/treatment-guidelines/index.html",
+        "snapshot_count": 0,
+        "verification_status": "unverified"
+      }
+    ],
+    "snapshots": []
+  },
+  "source_verification": "Blocked by current CDC destination policy. See docs/source-verification.md.",
+  "real_source_imports": 0,
+  "retrieval_implemented": false,
+  "anthropic_calls": 0,
+  "documentation_check": "Local links resolve, required disclosures present, no digits in README.",
+  "saved_install_script_exercised": true
+}

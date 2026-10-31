@@ -1,0 +1,16 @@
+{
+  "mode": "offline_scripted",
+  "notice": "Deterministic test double replies, not Claude predictions. These controlled replies check prompt and output handling only; they must not be used as model-accuracy evidence.",
+  "source_snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "responses": {
+    "How does a feedback loop bring a body condition back toward its usual range after a change?": "{\"status\": \"selected\", \"section_id\": \"m45989\", \"section_title\": \"Homeostasis\"}",
+    "What wraps around many axons to insulate them, and what are the gaps in that wrapping called?": "{\"status\": \"selected\", \"section_id\": \"m46509\", \"section_title\": \"Nervous Tissue\"}",
+    "Why can oxygen move from air sacs in the lungs into nearby blood without the cells spending energy to move it?": "{\"status\": \"selected\", \"section_id\": \"m46521\", \"section_title\": \"Gas Exchange\"}",
+    "Which tiny kidney structures make the barrier that filters fluid from glomerular blood into a capsule?": "{\"status\": \"selected\", \"section_id\": \"m46431\", \"section_title\": \"Microscopic Anatomy of the Kidney\"}",
+    "Which folds and small surface projections help the small intestine take in nutrients?": "{\"status\": \"selected\", \"section_id\": \"m46512\", \"section_title\": \"The Small and Large Intestines\"}",
+    "What keeps blood moving in one direction between the heart chambers and stops it from going backward when the ventricles squeeze?": "{\"status\": \"selected\", \"section_id\": \"m46676\", \"section_title\": \"Heart Anatomy\"}",
+    "How do A and B surface markers distinguish the common red blood cell groups?": "{\"status\": \"selected\", \"section_id\": \"m46708\", \"section_title\": \"Blood Typing\"}",
+    "Which hormones are stored and released by the back lobe of the pituitary, and where are they made?": "{\"status\": \"selected\", \"section_id\": \"m46699\", \"section_title\": \"The Pituitary Gland and Hypothalamus\"}",
+    "What is the current recommended antibiotic dose for bacterial pneumonia?": "{\"status\": \"no_match\", \"section_id\": null, \"section_title\": null}"
+  }
+}

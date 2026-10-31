@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-31T10:29:01.530189+00:00",
+  "milestone": "Complete OpenStax contents and textual section import; stopped before retrieval",
+  "database_path": "data/guidelines.sqlite3",
+  "schema_version": 2,
+  "source_slug": "openstax-anatomy-physiology",
+  "source_type": "open textbook, not a treatment guideline",
+  "primary_source": "OpenStax, Anatomy and Physiology 2e",
+  "publisher": "OpenStax, Rice University",
+  "revision": "5ae32b3f4bc24ed003e91dc38bf47dba80751044",
+  "snapshot_id": "5d90838406268619da1c40ee318c54c80105b426457829805d42e704237d401b",
+  "raw_sha256": "2540e62e2145ee9557bc37c0fa35288f39bec16fc304227f2c31d1497ef48492",
+  "archive_path": "data/raw/openstax/5ae32b3f4bc24ed003e91dc38bf47dba80751044/2540e62e2145ee9557bc37c0fa35288f39bec16fc304227f2c31d1497ef48492.zip",
+  "publication_date": "unknown – publisher content",
+  "publication_date_value": null,
+  "row_counts": {
+    "guidelines": 3,
+    "snapshots": 1,
+    "sections": 232,
+    "toc_entries": 232
+  },
+  "openstax_rows": {
+    "snapshots": 1,
+    "sections": 232,
+    "toc_entries": 232
+  },
+  "text_bearing_sections": 198,
+  "navigation_heading_rows": 34,
+  "sample_section_titles": [
+    "Preface",
+    "Introduction",
+    "Overview of Anatomy and Physiology",
+    "Structural Organization of the Human Body",
+    "Functions of Human Life"
+  ],
+  "unresolved_titles": 0,
+  "missing_module_files": 0,
+  "source_text_fragments_checked": 31814,
+  "missing_text_fragments": 0,
+  "fragment_check_rule": "Whitespace-normalized source text and tail fragments of at least two characters in bodies, glossaries and abstracts occur in rendered module text. This checks text presence, not clinical correctness.",
+  "stored_text_ranges_checked": 232,
+  "archive_files_checked": 201,
+  "sqlite_integrity": "ok",
+  "sqlite_reference_check": "ok",
+  "repeat_import_checked": true,
+  "source_status": {
+    "cdc-opioid": {
+      "slug": "cdc-opioid",
+      "stored_sources": 0
+    },
+    "cdc-sti": {
+      "slug": "cdc-sti",
+      "stored_sources": 0
+    },
+    "openstax-anatomy-physiology": {
+      "slug": "openstax-anatomy-physiology",
+      "stored_sources": 1
+    }
+  },
+  "retrieval_implemented": false,
+  "anthropic_calls": 0,
+  "limits": [
+    "Image files and linked videos are not downloaded; captions, alt text and original references are retained.",
+    "A complete text import is not a clinical review or a claim that the source is current."
+  ],
+  "tests": {
+    "tests": 100,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-30T12:22:36.150774+00:00",
+  "stage": "B source-review checkpoint; no application code or database writes",
+  "cdc_retried": false,
+  "cdc": [
+    {
+      "url": "https://www.cdc.gov/sti/hcp/treatment-guidelines/index.html",
+      "request_sent": true,
+      "error": "curl: (56) CONNECT tunnel failed, response 403",
+      "response_header": "HTTP/1.1 403 Forbidden",
+      "note": "Earlier diagnostic request; no page body downloaded. No request in this checkpoint."
+    },
+    {
+      "url": "https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm",
+      "request_sent": false,
+      "error": null,
+      "note": "Earlier chained command stopped at STI failure. No opioid request was sent. Do not invent a second failure."
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "OpenStax Anatomy and Physiology 2e",
+      "status": "reachable publisher source; incomplete corpus",
+      "evidence_file": "reports/openstax-anatomy-access.json",
+      "imported": false
+    },
+    {
+      "url": "https://iris.who.int/handle/10665/352754",
+      "status": "blocked",
+      "error": "curl: (56) CONNECT tunnel failed, response 403",
+      "response_header": "HTTP/1.1 403 Forbidden",
+      "title": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240049338",
+      "status": "blocked",
+      "error": "curl: (56) CONNECT tunnel failed, response 403",
+      "response_header": "HTTP/1.1 403 Forbidden",
+      "title": null,
+      "retried": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-hiv/main/README.md",
+      "status": 200,
+      "sha256": "b29dd7ed60a12545ff938f660d687d10af42cac94b826fac4199a21ac5b125a4",
+      "bytes": 975,
+      "suitability": "Implementation framework README; not accepted as a full clinical guideline"
+    }
+  ],
+  "database_row_counts": {
+    "guidelines": 2,
+    "snapshots": 0,
+    "sections": 0,
+    "toc_entries": 0
+  },
+  "database_content_status": "snapshots, sections, toc_entries are empty placeholders; guidelines contains candidate addresses only",
+  "retrieval_gate_met": false,
+  "next_action": "Review source evidence before writing any more application code. Full source import is still pending."
+}
