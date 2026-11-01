@@ -7,6 +7,8 @@ A portfolio project comparing the retrieval step of **chunked RAG** with **table
 
 This is STAIR-inspired, not a claimed reproduction of a published STAIR method. **No answer generator is built.**
 
+[Comparison screenshots](#screenshots-of-the-comparison-page) · [Video recording script](docs/video-script.md)
+
 ## Live results
 
 The live development run was recorded on **October 31, 2026**, using **`claude-opus-5-5`**. Source: [saved live run](reports/retrieval-live-results.json) and [dated validation](reports/live-comparison-checks.json). The counts below refer only to that run.
@@ -24,10 +26,13 @@ Every numerical claim in this README is tied to a dated source. The run records 
 
 ## Conclusion
 
-On this small set of five synthetic questions, the ToC-aware method returned the expected section every time (5/5), while the fixed-chunk baseline matched on 4/5. The single difference (question about oxygen movement in the lungs) shows that seeing the full table of contents can help the model pick a more precise section title than pure word-vector search.
+In the [live development run recorded on October 31, 2026](reports/live-comparison-checks.json), ToC-aware retrieval matched 5/5 prepared section keys and the fixed-chunk baseline matched 4/5. For the lung question, the baseline selected “Body Fluids and Fluid Compartments” while Claude selected “Gas Exchange,” the prepared target section.
 
-This is only a retrieval comparison on public textbook text. It does not generate answers, does not use patient data, and is not a clinical evaluation. The goal was to build and measure one concrete idea: give the model the document structure instead of only chunks, then show the results side by side so a reviewer can see exactly what each method chose.
-### Screenshots of the comparison page
+This example illustrates a difference worth testing further. It does not establish a general retrieval advantage. The methods differ in both document structure and their use of Claude versus word-based vectors, so this comparison does not isolate the effect of the table of contents.
+
+The result is a small, reproducible engineering experiment on public textbook text, not a clinical evaluation. It returns section references and uses synthetic questions only. A future evaluation would need a larger, separate question set and a baseline that matches meaning as well as words. Those improvements are not part of the current implementation.
+
+## Screenshots of the comparison page
 
 Below are screenshots of the saved live comparison (opened locally with `open reports/comparison.html`). No API key is required to view these results.
 
