@@ -27,6 +27,18 @@ Every numerical claim in this README is tied to a dated source. The run records 
 On this small set of five synthetic questions, the ToC-aware method returned the expected section every time (5/5), while the fixed-chunk baseline matched on 4/5. The single difference (question about oxygen movement in the lungs) shows that seeing the full table of contents can help the model pick a more precise section title than pure word-vector search.
 
 This is only a retrieval comparison on public textbook text. It does not generate answers, does not use patient data, and is not a clinical evaluation. The goal was to build and measure one concrete idea: give the model the document structure instead of only chunks, then show the results side by side so a reviewer can see exactly what each method chose.
+### Screenshots of the comparison page
+
+Below are screenshots of the saved live comparison (opened locally with `open reports/comparison.html`). No API key is required to view these results.
+
+**Overview**  
+![Comparison overview](docs/images/comparison-overview.png)
+
+**Side-by-side results**  
+![Results table](docs/images/comparison-results.png)
+
+**Run details**  
+![Run details](docs/images/comparison-details.png)
 
 ## Run the comparison
 
