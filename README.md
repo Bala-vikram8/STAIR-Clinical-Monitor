@@ -22,6 +22,12 @@ The ToC choices are recorded Claude responses; baseline choices come from actual
 
 Every numerical claim in this README is tied to a dated source. The run records keep the questions, source snapshot, settings, and returned sections.
 
+## Conclusion
+
+On this small set of five synthetic questions, the ToC-aware method returned the expected section every time (5/5), while the fixed-chunk baseline matched on 4/5. The single difference (question about oxygen movement in the lungs) shows that seeing the full table of contents can help the model pick a more precise section title than pure word-vector search.
+
+This is only a retrieval comparison on public textbook text. It does not generate answers, does not use patient data, and is not a clinical evaluation. The goal was to build and measure one concrete idea: give the model the document structure instead of only chunks, then show the results side by side so a reviewer can see exactly what each method chose.
+
 ## Run the comparison
 
 Run commands from the repository root. Use Python and `uv`; [pyproject.toml](pyproject.toml) declares the supported Python versions and [uv.lock](uv.lock) fixes the package versions. The commands below use the recorded run's question count and model. Their options were checked against [the CLI](src/stair_monitor/cli.py) on **October 31, 2026**.
